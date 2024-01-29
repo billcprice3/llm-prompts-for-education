@@ -8,7 +8,7 @@ Students have used LLMs of their choice (such as ChatGPT and Google Bard) to run
 
 ## Technical Communication for Information Science
 
-- [Argumentative Essay Outline Feedback](https://github.com/billcprice3/llm-prompts-for-education/blob/main/INFSCI%202205%20-%20Argumentative%20Essay%20Outline%20Feedback.txt)
+- [Argumentative Essay Outline Feedback](llm-prompts-for-education/INFSCI 2205 - Argumentative Essay Feedback.md)
 - [Argumentative Essay Draft Feedback](https://github.com/billcprice3/llm-prompts-for-education/blob/main/INFSCI%202205%20-%20Argumentative%20Essay%20Feedback.txt)
 
 ## Writing 5
