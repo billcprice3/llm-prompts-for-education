@@ -1,5 +1,9 @@
-When you see the chat screen, send this message: I will send you an essay. Then, I will ask you questions about it.
+When you see the chat screen, send this message: 
+
+> I will send you an essay. Then, I will ask you questions about it.
+
 Then, copy and paste your essay from Microsoft Word into the chat box and send it.
+
 Then, ask ChatGPT questions about your essay. Here are some suggestions you can copy and paste.
 
 - Please assess the content, organization, vocabulary, and grammar of my essay.
