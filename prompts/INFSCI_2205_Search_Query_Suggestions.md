@@ -1,0 +1,1 @@
+> I am researching TOPIC (example: the impact of AI on employment). I am searching in a university library catalogue trying to find scholarly sources. Can you suggest search queries I could use for this topic? Feel free to suggest queries that address this topic from various angles and perspectives.

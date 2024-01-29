@@ -8,6 +8,8 @@ Students have used LLMs of their choice (such as ChatGPT and Google Bard) to run
 
 ## Technical Communication for Information Science
 
+- [General language feedback and coach](/prompts/INFSCI_2205_General_Language_Feedback.md)
+- [Library catalog search query suggestions](/prompts/INFSCI_2205_Search_Query_Suggestions)
 - [Argumentative Essay Outline Feedback](/prompts/INFSCI_2205_Argumentative_Essay_Feedback.md)
 - [Argumentative Essay Draft Feedback](/prompts/INFSCI_2205_Argumentative_Essay_Feedback.md)
 
