@@ -10,7 +10,7 @@ Students have used LLMs of their choice (such as ChatGPT and Google Bard) to run
 
 - [Writing coach](/prompts/INFSCI_2205_Writing_Coach.md)
 - [Library catalog search query suggestions](/prompts/INFSCI_2205_Search_Query_Suggestions.md)
-- [Argumentative Essay Outline Feedback](/prompts/INFSCI_2205_Argumentative_Essay_Feedback.md)
+- [Argumentative Essay Outline Feedback](/prompts/INFSCI_2205_Argumentative_Essay_Outline_Feedback.md)
 - [Argumentative Essay Draft Feedback](/prompts/INFSCI_2205_Argumentative_Essay_Feedback.md)
 
 ## Writing 5
