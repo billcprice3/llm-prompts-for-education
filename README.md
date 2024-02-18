@@ -4,6 +4,10 @@ I am an educator. This is a repository of prompts I have developed for use in cu
 
 Students have used LLMs of their choice (such as ChatGPT and Google Bard) to run these prompts.
 
+# General materials creation
+
+- [Generate Vocabulary Images](/prompts/Generate_Vocabulary_Images.md)
+
 # Curricula
 
 ## Technical Communication for Information Science
