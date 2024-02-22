@@ -7,6 +7,7 @@ Students have used LLMs of their choice (such as ChatGPT and Google Bard) to run
 # General materials creation
 
 - [Generate Vocabulary Images](/prompts/Generate_Vocabulary_Images.md)
+- [Summarize Scientific Journal Article](/prompts/NotebookLM_Summarize_Article.md)
 
 # Curricula
 
