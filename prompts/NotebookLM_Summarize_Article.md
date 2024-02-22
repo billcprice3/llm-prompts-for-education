@@ -1,0 +1,11 @@
+This prompt was specifically designed for use with Google's NotebookLM, but may be possible to use with other LLMs. 
+
+1. Download the PDF of an academic journal article. 
+
+2. Upload the PDF to one of your notebooks in NotebookLM.
+
+3. Select that PDF as your only source. 
+
+4. Submit the prompt:
+
+>In a chipper, approachable style, write a magazine-style article of about 400 words summarizing the attached article. The first paragraph should contain a hook to attract the reader's interest and explain the top highlights. The second paragraph should be one sentence: "The findings appear in the journal [journal name] [DOI link]". Remaining paragraphs should explain any appropriate particulars and details of the research that a general audience might be interested in. Conclude with an analysis of future implications or appropriate calls to action, especially if the topic might intersect with the daily experiences of some members of the general audience.
