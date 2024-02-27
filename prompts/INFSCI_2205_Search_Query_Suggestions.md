@@ -1,1 +1,9 @@
-> I am researching TOPIC (example: the impact of AI on employment). I am searching in a university library catalogue trying to find scholarly sources. Can you suggest search queries I could use for this topic? Feel free to suggest queries that address this topic from various angles and perspectives.
+>I want to research TOPIC (example: the impact of AI on employment). Please give me a list of different academic disciplines and subfields that might have something to say about this topic. For each field, provide a summary of their contributions to the topic or issue as well as a summary of their concerns about the issue. Finally, also include a list of suggested search queries I can use to find relevant scholarly sources in a university library catalog.
+>
+>Example output format:
+>
+>- Field name
+>- Relevant subfields:
+>- Contributions:
+>- Concerns:
+>- List of suggested search queries:
