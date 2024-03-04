@@ -10,7 +10,7 @@ Students have used LLMs of their choice (such as ChatGPT and Google Bard) to run
 - [Generate Vocabulary Texts/Sentences](/prompts/Generate_Vocabulary_Sentences.md)
 - [Summarize Scientific Journal Article](/prompts/NotebookLM_Summarize_Article.md)
 
-#Securely assessing student work
+# Securely assessing student work
 - [Assessing real student work with an offline LLM](/prompts/Assess_Real_Student_Work_With_Offline_LLM.md) (to ensure security, privacy, & legal compliance)
 
 # Curricula
