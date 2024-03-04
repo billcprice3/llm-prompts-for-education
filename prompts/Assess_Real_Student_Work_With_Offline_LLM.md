@@ -14,9 +14,11 @@ I used a 2023 model year MacBook Pro with the M2 Pro chipset and 16 GB RAM.
 
 1. I installed the open-source program [GPT4All](https://gpt4all.io/).
 
-2. After installing the program, I launched it, and I selected the model called "Nous Hermes 2 Mistral DPO" from the model list. You can learn about this model [here](https://huggingface.co/NousResearch/Nous-Hermes-2-Mistral-7B-DPO).
+2. After installing the program, I launched it, and when prompted, I turned **OFF** all telemetry (i.e., I chose **NOT** to share any user data or transcripts)
 
-3. I changed the following default settings:
+3. I selected the model called "Nous Hermes 2 Mistral DPO" from the model list. You can learn about this model [here](https://huggingface.co/NousResearch/Nous-Hermes-2-Mistral-7B-DPO).
+
+4. I changed the following default settings:
     - Context Length: 2048 -> 4096
         - Reason for change: The TED talk transcript was too long to fit in a context length of 2048. Why did I choose 4096? I noticed that 2048 is a power of 2, and I wasn't sure if this setting is supposed to be set to powers of 2, but I figured doubling it to 4096 would be a safe first experiment. It worked, so I kept it at 4096.
     - Prompt Batch Size: 128 -> 256
