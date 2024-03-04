@@ -18,7 +18,9 @@ I used a 2023 model year MacBook Pro with the M2 Pro chipset and 16 GB RAM.
 
 3. I changed the following default settings:
     - Context Length: 2048 -> 4096
+        - Reason for change: The TED talk transcript was too long to fit in a context length of 2048. Why did I choose 4096? I noticed that 2048 is a power of 2, and I wasn't sure if this setting is supposed to be set to powers of 2, but I figured doubling it to 4096 would be a safe first experiment. It worked, so I kept it at 4096.
     - Prompt Batch Size: 128 -> 256
+        - Reason for change: The program explains that increasing this value will cause the program to use more RAM, but be more responsive. Similar to the above, I noticed 128 was a power of 2, so I chose to try doubling it to 256 (another power of 2).
 
 # Transcript of chat
 
