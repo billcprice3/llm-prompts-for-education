@@ -1,12 +1,16 @@
-### What is this experiment?
+# Introduction 
+
+## Why use an offline Large Language Model for assessment?
 
 There are substantial concerns connected to the legality and the privacy issues of an instructor sharing student work directly with commercial LLMs such as ChatGPT. As such, I wanted to determine if a viable "fully local" workflow exists for using a LLM to assess or analyze student work such that the work never leaves a secure system and can never be cached or fed into a commercial model's training data.
 
-### Hardware
+# Configuration
+
+## Hardware
 
 I used a 2023 model year MacBook Pro with the M2 Pro chipset and 16 GB RAM.
 
-### Setup and configuration
+## Software setup and configuration
 
 1. I installed the open-source program [GPT4All](https://gpt4all.io/).
 
@@ -16,7 +20,8 @@ I used a 2023 model year MacBook Pro with the M2 Pro chipset and 16 GB RAM.
     - Context Length: 2048 -> 4096
     - Prompt Batch Size: 128 -> 256
 
-### Transcript of chat
+# Transcript of chat
+
 **User:** 
 
 I want you to read this text and summarize it in five bullet points. It is a TED talk. 
