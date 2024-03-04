@@ -16,7 +16,7 @@ I used a 2023 model year MacBook Pro with the M2 Pro chipset and 16 GB RAM.
 
 2. After installing the program, I launched it, and when prompted, I turned **OFF** all telemetry (i.e., I chose **NOT** to share any user data or transcripts)
 
-3. I selected the model called "Nous Hermes 2 Mistral DPO" from the model list. You can learn about this model [here](https://huggingface.co/NousResearch/Nous-Hermes-2-Mistral-7B-DPO).
+3. I selected the model called "Nous Hermes 2 Mistral DPO" from the model list. I chose this model because as of March 2024, it is one of the best available "lightweight" LLMs that can run on a typical laptop. (However, this field is moving so quickly that there could be something better in a month or two.) You can learn about this model [here](https://huggingface.co/NousResearch/Nous-Hermes-2-Mistral-7B-DPO).
 
 4. I changed the following default settings:
     - Context Length: 2048 -> 4096
