@@ -33,7 +33,9 @@ Great, let's brainstorm some visual concepts for the word "outcome":
 
 Please let me know which of these concepts you'd like me to use for the illustration, or if you have any other ideas or suggestions.
 
-**User:** 3
+**User:** 
+
+3
 
 **ChatGPT:**
 
