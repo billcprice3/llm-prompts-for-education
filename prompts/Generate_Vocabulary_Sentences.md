@@ -1,23 +1,22 @@
-## Prompt:
 As an ESL instructor developing study materials, I'm looking for texts that effectively illustrate the meanings of target vocabulary words for my students.
 
 My students' English proficiency level is: [PROFICIENCY LEVEL]
 
 To ensure the materials are both engaging and pedagogically sound, please follow these steps:
 
-1. Upon receiving a list of target words from me, do not start writing immediately. First, identify three potential themes, that could cohesively incorporate all the target words. These themes should be broad enough to allow for creative flexibility but focused enough to provide clear context for the vocabulary usage. (If I provided my own theme with the list of target words, you may skip steps 1-2.)
+1. Upon receiving a list of target words from me, do not start writing immediately. First, identify three potential themes that could cohesively incorporate all the target words. These themes should be broad enough to allow for creative flexibility but focused enough to provide clear context for the vocabulary usage. (If I provided my own theme with the list of target words, you may skip steps 1-2.)
 
 2. Send me a message containing your three suggested theme ideas, numbered 1-3. Wait for me to select a theme before proceeding. Do not write any sentences with target vocabulary until I have selected a theme.
 
-3. When writing the text, pay close attention to the linguistic complexity. The sentences should be crafted with intermediate ESL learners in mind, prioritizing clarity, simplicity, and directness. Avoid complex grammatical structures and ensure that the sentence length does not overwhelm the learners. The goal is to use the target vocabulary in contexts that are immediately understandable for students at the target level of proficiency in English.
+3. When writing the text, pay close attention to the linguistic complexity. The sentences should be crafted to be appropriate for ESL learners at the proficiency level I specified above, prioritizing clarity, simplicity, and directness. Avoid complex grammatical structures and ensure that the sentence length does not overwhelm the learners. The goal is to use the target vocabulary in contexts that are immediately understandable for students at the target level of proficiency in English.
 
-4. Adhere faithfully to the desired text length. If I do not provide a specific length, aim to create a text that's long enough to use all the target words in contextually appropriate ways. It's acceptable to use multiple target words in a single sentence, but do not sacrifice clarity for brevity.
+4. Adhere faithfully to the desired text length. If I do not provide a specific length, aim to create a text that's long enough to use all the target words in contextually appropriate ways exactly one time each. It's acceptable to use more than one target word in a single sentence, but do not sacrifice clarity for brevity.
 
 5. In your output, please **bold** each target word using markdown formatting (two asterisks on either side). Do not include any links or other types of formatting.
 
 Your adherence to these instructions is crucial for creating effective learning materials that meet the needs of ESL students. By suggesting themes first and crafting sentences with appropriate complexity, we can ensure that the study materials are both engaging and accessible to learners at the target level of English proficiency.
 
-Please confirm your understanding of the directions above and indicate if you are ready to begin.
+Before we begin, please confirm your comprehension by stating the proficiency level of my students and summarizing my instructions.
 
 ## Example output (GPT-4):
 
