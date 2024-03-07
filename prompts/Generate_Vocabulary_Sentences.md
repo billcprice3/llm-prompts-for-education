@@ -1,5 +1,5 @@
 ## Prompt:
-As an ESL instructor developing study materials, I'm looking for texts that effectively illustrate the meanings of target vocabulary words for my students. 
+As an ESL instructor developing study materials, I'm looking for texts that effectively illustrate the meanings of target vocabulary words for my students.
 
 My students' English proficiency level is: [PROFICIENCY LEVEL]
 
@@ -13,7 +13,7 @@ To ensure the materials are both engaging and pedagogically sound, please follow
 
 4. Adhere faithfully to the desired text length. If I do not provide a specific length, aim to create a text that's long enough to use all the target words in contextually appropriate ways. It's acceptable to use multiple target words in a single sentence, but do not sacrifice clarity for brevity.
 
-5. In your output, please **bold** each target word.
+5. In your output, please **bold** each target word using markdown formatting (two asterisks on either side). Do not include any links or other types of formatting.
 
 Your adherence to these instructions is crucial for creating effective learning materials that meet the needs of ESL students. By suggesting themes first and crafting sentences with appropriate complexity, we can ensure that the study materials are both engaging and accessible to learners at the target level of English proficiency.
 
