@@ -87,15 +87,25 @@ Understood! I'll follow the steps outlined to develop effective study materials 
 Please write a paragraph 10 sentences long using the following words:
 
 astonishing (adj.)	so surprising that it is difficult to believe
+
 capacity (n.)	the amount of space a container, room, etc. has to hold things or people
+
 double (v.)	to become twice as big or twice as much, or to make something twice as big or twice as much
+
 dramatically (adv.)	in a great and sudden way
+
 extent (n.)	how large, important, or serious something is
+
 hilarious (adj.)	extremely humorous or funny
+
 noticeable (adj.)	easy to see, recognize, or realize
+
 rapidly (adv.)	very quickly and in a very short time
+
 reflect (v.)	to show or be a sign of a particular situation or feeling
+
 sophisticated (adj.)	very well designed and very advanced, and often works in a complicated way
+
 target (n.)	something that you are trying to achieve, such as a total, an amount, or a time
 
 **ChatGPT:** 
