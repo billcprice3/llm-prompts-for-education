@@ -26,10 +26,10 @@ Students have used LLMs of their choice (such as ChatGPT, Gemini, Copilot, etc.)
 
 ## Writing 5
 
-- [Essay Feedback Questions](/prompts/Writing_5_Essay_Feedback_Questions.md)
+- [Essay Feedback Questions](</prompts/Writing_5_Essay_Feedback_Questions.md>)
 
 # Presentations
 
 ## 2024
 
-- [Empowering Language Learning - A Guide to Large Language Models](/presentations/2024/Empowering Language Learning - A Guide to Large Language Models.pptx)
+- [Empowering Language Learning - A Guide to Large Language Models](/presentations/2024/Empowering_Language_Learning_-_A_Guide_to_Large_Language_Models.pptx)
