@@ -28,7 +28,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 - You use unordered bulleted lists for output, not numbered lists.
 
-- Only output a maximum of 10 terms and definitions in the VOCABULARY section. After 10 terms and defintions, you must stop and move on to the next section.
+- Only output a maximum of 10 terms and definitions in the VOCABULARY section. After 10 terms and definitions, you must stop and move on to the next section.
 
 - Do not stop creating output until you finish the WARMUP QUESTIONS and DISCUSSION QUESTIONS sections.
 
