@@ -18,7 +18,7 @@ Your adherence to these instructions is crucial for creating effective learning 
 
 Before we begin, please confirm your comprehension by stating the proficiency level of my students and summarizing my instructions.
 
-## Example output (GPT-4):
+## Example output (ChatGPT GPT-4):
 
 **User:** *(sent prompt with "intermediate" proficiency)*
 
@@ -159,3 +159,85 @@ You're absolutely correct, and I appreciate your attention to detail. It seems I
 As the city undergoes **rapid** expansion, the **extent** of its development is truly **astonishing**. Once quiet streets are now bustling thoroughfares, lined with **sophisticated** skyscrapers and modern condominiums. The **capacity** of public transportation systems has **doubled**, accommodating the growing population. These changes are **noticeable** to all who call the city home, reflecting its evolving identity. Amidst the **dramatic** skyline, one can observe the **target** of urban planners: a vibrant, sustainable metropolis. Yet, amidst the gleaming towers, echoes of the past still **reflect**, reminding residents of the city's rich history. This transformation is not merely physical but also cultural, shaping the collective identity of its inhabitants. The city's comedians find the urban landscape ripe with material, and their performances are a **hilarious** commentary on the rapid changes occurring.
 
 Thank you for bringing it to my attention.
+
+## Example output (Microsoft Copilot GPT-4):
+
+**Copilot:** 
+
+Your students' English proficiency level is intermediate. Here's a summary of your instructions:
+
+1. Upon receiving a list of target words, I will first suggest three potential themes that can incorporate all the words.
+
+2. I will send you these theme ideas and wait for you to select one before writing any sentences.
+
+3. The text I write will be clear, simple, and direct, avoiding complex grammatical structures, suitable for intermediate ESL learners.
+
+4. I will adhere to the text length you specify, ensuring all target words are used contextually appropriate ways exactly once.
+
+5. I will **bold** each target word in the text using markdown formatting and avoid any other types of formatting.
+
+Once you provide the list of target words, I will proceed with suggesting themes for your approval.
+
+**User:**
+
+Please write a paragraph 10 sentences long using the following words:
+
+astonishing (adj.)	so surprising that it is difficult to believe
+
+capacity (n.)	the amount of space a container, room, etc. has to hold things or people
+
+double (v.)	to become twice as big or twice as much, or to make something twice as big or twice as much
+
+dramatically (adv.)	in a great and sudden way
+
+extent (n.)	how large, important, or serious something is
+
+hilarious (adj.)	extremely humorous or funny
+
+noticeable (adj.)	easy to see, recognize, or realize
+
+rapidly (adv.)	very quickly and in a very short time
+
+reflect (v.)	to show or be a sign of a particular situation or feeling
+
+sophisticated (adj.)	very well designed and very advanced, and often works in a complicated way
+
+target (n.)	something that you are trying to achieve, such as a total, an amount, or a time
+
+**Copilot:**
+
+Here's a paragraph that incorporates your target vocabulary words:
+
+The magician's **astonishing** ability to **double** the number of rabbits in his hat was both **hilarious** and **sophisticated**, leaving the audience in awe. His performance space had a **capacity** for two hundred spectators, yet it filled up so **rapidly** that many had to stand. The **extent** of his fame was **noticeable** as fans from all over the city gathered to witness his tricks. Each act was designed to **reflect** his unique style and humor, which **dramatically** changed the mood of the room from curious to ecstatic. His final trick was a testament to his hard work, hitting the **target** time of just three minutes to escape from a locked water tank, a feat that seemed almost impossible.
+
+This paragraph is crafted to be clear and understandable for intermediate ESL learners, with each target word used in a context that illustrates its meaning.
+
+**User:**
+
+Did you follow my instructions as written?
+
+**Copilot:**
+
+I apologize for the oversight. I did not follow your instructions correctly. Before writing any sentences, I should have first identified three potential themes that could incorporate all the target words and waited for you to select one. Let's correct that.
+
+Here are three theme ideas for incorporating the target vocabulary words:
+
+1. **A Day at the Science Fair**: Exploring various innovative projects that showcase students' understanding and application of scientific principles.
+
+2. **Theater Production Behind-the-Scenes**: A look into the preparation and challenges faced by a theater crew leading up to the opening night of a play.
+
+3. **Adventures in a Tech Startup**: The journey of a technology startup from its initial concept to launching its first product.
+
+Please select one of these themes, and I will proceed to write the paragraph accordingly.
+
+**User:**
+
+3
+
+**Copilot:**
+
+Thank you for selecting the theme "Adventures in a Tech Startup." Here's a paragraph that incorporates your target vocabulary words within this theme:
+
+In the bustling world of tech startups, the **astonishing** breakthroughs can **double** a company's value overnight. Our startup's **capacity** for innovation is vast, often leading to **dramatically** improved products. The **extent** of our ambition is matched only by the **rapidly** evolving market demands. Our latest app's **hilarious** filters have become **noticeable** trends on social media. The design team's ability to **reflect** user feedback into the app's features is a testament to their **sophisticated** understanding of consumer needs. As we **target** the global market, our growth trajectory seems almost limitless.
+
+Each sentence is crafted to be clear and understandable for intermediate ESL learners, with each target word used in a context that illustrates its meaning and bolded as requested.
