@@ -6,6 +6,7 @@ Students have used LLMs of their choice (such as ChatGPT, Gemini, Copilot, etc.)
 
 # General materials creation
 
+- [Generate Lesson From Text](/prompts/Generate_Lesson_From_Text.md)
 - [Generate Vocabulary Images](/prompts/Generate_Vocabulary_Images.md)
 - [Generate Vocabulary Texts/Sentences](/prompts/Generate_Vocabulary_Sentences.md)
 - [Summarize Scientific Journal Article](/prompts/NotebookLM_Summarize_Article.md)
