@@ -39,11 +39,23 @@ In this workshop, I argue that we as educators can improve our working condition
 
 ### Live Demonstrations
 
-- Showcasing real-world applications of AI-driven prompts and tools from the "LLM Prompts for Education" GitHub repository.
+We will briefly visit these four resources:
+
+- [ChatGPT](https://chat.openai.com/)
+- [Google Gemini](https://gemini.google.com)
+- [Microsoft Copilot](https://copilot.microsoft.com/)
+- [GPT4All](https://gpt4all.io/)
+
+Based on prior request, we will explore these specific prompts as time allows:
+
+- [Writing coach](/prompts/INFSCI_2205_Writing_Coach.md)
+- [Argumentative Essay Draft Feedback](/prompts/INFSCI_2205_Argumentative_Essay_Feedback.md)
+- [Generate Vocabulary Images](/prompts/Generate_Vocabulary_Images.md)
+- [Generate Vocabulary Texts/Sentences](/prompts/Generate_Vocabulary_Sentences.md)
 
 ### Hands-on Exploration
 
-- Feel free to log into one of the "Chat-Based Generative AI Tools" listed in the "Additional Resources" section below. You may copy, modify, and remix any of the above demonstration prompts or 
+- Feel free to log into one of the "Chat-Based Generative AI Tools" listed in the "Additional Resources" section below. You may copy, modify, and remix any of the above demonstration prompts or explore others from [LLM Prompts for Education](/readme.md).
 
 ---
 
@@ -83,7 +95,6 @@ In this workshop, I argue that we as educators can improve our working condition
 
 ### Image-Based Generative AI Tools
 
-- [DALL·E 2](https://openai.com/dall-e-2/): A model by OpenAI that can generate detailed images from textual descriptions, offering creative possibilities in visual content creation.
+- [DALL·E 3](https://openai.com/dall-e-3/): A model by OpenAI that can generate detailed images from textual descriptions, offering creative possibilities in visual content creation.
 - [Midjourney](https://www.midjourney.com/): An independent research lab's image synthesis tool that explores new mediums of thought and expands the imaginative powers of the human species.
-- [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release): A text-to-image AI by Stability AI that enables users to create images from textual descriptions, emphasizing accessibility and ease of use.
-- [DeepArt](https://deepart.io/): Uses AI to transform photos into artworks based on the styles of famous artists, showcasing the fusion of technology and classical art.
+- [Stable Diffusion](https://stability.ai/stable-image): A text-to-image AI by Stability AI that enables users to create images from textual descriptions, emphasizing accessibility and ease of use.
