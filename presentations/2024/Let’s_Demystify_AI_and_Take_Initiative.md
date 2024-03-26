@@ -25,12 +25,15 @@ In this workshop, I argue that we as educators can improve our working condition
 ### Dipping Our Toes In
 
 - **It's hard to know where to start:** See the demos and "additional resources" sections below for lists of tools and examples of their usage.
+
 - **Overcoming Barriers:** The best ways to build confidence in generative AI tools are to **cultivate a sense of what's possible** by exploring others' work and to **develop hands-on experience** through personal experimentation with the tools.
 
 ### Our Role as Professionals
 
 - **Take the Reins:** As professionals, it's up to us to take initiative to establish best practices for emerging tools.
+
 - **Guide the Future:** Our judgment and expertise is needed to guide the ethical and impactful integration of AI in education.
+
 - **We're Not In It Alone:** As with other forms of educational praxis, we should innovate openly and collectively.
 
 ---
@@ -74,9 +77,13 @@ Based on prior request, we will explore these specific prompts as time allows:
 ### Prompt engineering and repositories
 
 - [How to Write Better ChatGPT Prompts](https://www.xelplus.com/chatgpt-prompts-for-best-results/): Article and video by Leila Gharani with specific tips and examples for writing more effective prompts
+
 - [LLM Prompts for Education](/readme.md): Bill Price's repository of prompts.
+
 - [Fabric](https://github.com/danielmiessler/fabric/tree/main/patterns): A repository of prompts by Daniel Miessler. They are not specific to education, but provide excellent examples of what an engineered prompt can look like. See some of Miessler's examples below:
+
     - [Create Keynote](https://github.com/danielmiessler/fabric/blob/main/patterns/create_keynote/system.md) prompt that instructs the AI to create a slide-by-slide plan for a presentation
+
     - [Extract Wisdom](https://github.com/danielmiessler/fabric/blob/main/patterns/extract_wisdom/system.md) prompt that instructs the AI to "extract surprising, insightful, and interesting information from text content"
 
 ### Chat-Based Generative AI Tools (as of March 2024)
@@ -98,5 +105,7 @@ Based on prior request, we will explore these specific prompts as time allows:
 ### Image-Based Generative AI Tools
 
 - [DALL·E 3](https://openai.com/dall-e-3/): A model by OpenAI that can generate detailed images from textual descriptions, offering creative possibilities in visual content creation.
+
 - [Midjourney](https://www.midjourney.com/): An independent research lab's image synthesis tool that explores new mediums of thought and expands the imaginative powers of the human species.
+
 - [Stable Diffusion](https://stability.ai/stable-image): A text-to-image AI by Stability AI that enables users to create images from textual descriptions, emphasizing accessibility and ease of use.
