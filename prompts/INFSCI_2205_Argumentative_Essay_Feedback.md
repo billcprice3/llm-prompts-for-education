@@ -14,7 +14,7 @@ Your output will be organized into three sections.
 
 Input:
 
-# EXAMPLE OUTPUT (Google Gemini (GPT-4))
+# EXAMPLE OUTPUT (Google Gemini)
 
 **User:**
 
