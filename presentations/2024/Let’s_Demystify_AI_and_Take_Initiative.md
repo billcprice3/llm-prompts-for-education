@@ -22,15 +22,16 @@ In this workshop, I argue that we as educators can improve our working condition
 
 ## From Hesitation to Action
 
-### Navigating the AI Landscape
+### Dipping Our Toes In
 
-- **Common Concerns:** Exploring the apprehensions educators have about integrating AI into their teaching practices.
-- **Overcoming Barriers:** Strategies and insights on how to address these concerns and effectively use AI tools in education.
+- **It's hard to know where to start:** See the demos and "additional resources" sections below for lists of tools and examples of their usage.
+- **Overcoming Barriers:** The best ways to build confidence in generative AI tools are to **cultivate a sense of what's possible** by exploring others' work and to **develop hands-on experience** through personal experimentation with the tools.
 
-### Empowering Educators
+### Our Role as Professionals
 
-- **Taking Charge:** Encouraging educators to actively shape their teaching tools and environments with AI.
-- **Practical Tips:** How to start experimenting with AI in your classes for curriculum development and student engagement.
+- **Take the Reins:** As professionals, it's up to us to take initiative to establish best practices for emerging tools.
+- **Guide the Future:** Our judgment and expertise is needed to guide the ethical and impactful integration of AI in education.
+- **We're Not In It Alone:** As with other forms of educational praxis, we should innovate openly and collectively.
 
 ---
 
@@ -40,10 +41,9 @@ In this workshop, I argue that we as educators can improve our working condition
 
 - Showcasing real-world applications of AI-driven prompts and tools from the "LLM Prompts for Education" GitHub repository.
 
-### Hands-On Activities
+### Hands-on Exploration
 
-- **Structured Exploration:** Participants will have the opportunity to engage with specific AI prompts and tools, guided by the presenter.
-- **Open-Ended Experimentation:** Encouraging participants to try their own experiments with the LLM of their choice, fostering creativity and innovation in teaching practices.
+- Feel free to log into one of the "Chat-Based Generative AI Tools" listed in the "Additional Resources" section below. You may copy, modify, and remix any of the above demonstration prompts or 
 
 ---
 
@@ -57,11 +57,17 @@ In this workshop, I argue that we as educators can improve our working condition
 
 ## Additional Resources
 
-Certainly! Here's an updated markdown-formatted list of chat-based generative AI tools, now including Google Gemini, Microsoft Copilot, the GPT4All ecosystem, and the LM Studio ecosystem, alongside ChatGPT.
+### Prompt engineering and repositories
 
-### Chat-Based Generative AI Tools
+- [How to Write Better ChatGPT Prompts](https://www.xelplus.com/chatgpt-prompts-for-best-results/): Article and video by Leila Gharani with specific tips and examples for writing more effective prompts
+- [LLM Prompts for Education](/readme.md): Bill Price's repository of prompts.
+- [Fabric](https://github.com/danielmiessler/fabric/tree/main/patterns): A repository of prompts by Daniel Miessler. They are not specific to education, but provide excellent examples of what an engineered prompt can look like. See some of Miessler's examples below:
+    - [Create Keynote](https://github.com/danielmiessler/fabric/blob/main/patterns/create_keynote/system.md) prompt that instructs the AI to create a slide-by-slide plan for a presentation
+    - [Extract Wisdom](https://github.com/danielmiessler/fabric/blob/main/patterns/extract_wisdom/system.md) prompt that instructs the AI to "extract surprising, insightful, and interesting information from text content"
 
-#### Commercial and online
+### Chat-Based Generative AI Tools (as of March 2024)
+
+#### Commercial (online)
 
 - [ChatGPT](https://chat.openai.com/): A conversational AI developed by OpenAI, capable of generating human-like text responses. It's known for its wide range of applications, from answering questions to writing creative content.
 
@@ -69,15 +75,15 @@ Certainly! Here's an updated markdown-formatted list of chat-based generative AI
 
 - [Microsoft Copilot](https://copilot.microsoft.com/): Microsoft's conversational AI assistant that integrates with various Microsoft products to enhance productivity by automating tasks, generating content, and providing insights based on natural language prompts.
 
-#### Open-Source and offline
+#### Open-Source (offline)
 
 - [GPT4All](https://gpt4all.io/): A free program for downloading and running open-source conversational AIs locally on your own computer. As of March 2024, I recommend using the model called Nous Hermes 2 Mistral DPO.
 
 - [LM Studio](https://lmstudio.ai/): Similar to GPT4All, but considered to be less user-friendly and more advanced.
 
-These tools represent the cutting edge of conversational AI technology, each offering unique features and capabilities designed to assist users in different contexts, from professional environments to personal projects.
+### Image-Based Generative AI Tools
 
-- [LLM Prompts for Education GitHub Repository](#)
-- [Further Reading on AI in Education](#)
-- [Contact Information for Follow-Up](#)
-
+- [DALL·E 2](https://openai.com/dall-e-2/): A model by OpenAI that can generate detailed images from textual descriptions, offering creative possibilities in visual content creation.
+- [Midjourney](https://www.midjourney.com/): An independent research lab's image synthesis tool that explores new mediums of thought and expands the imaginative powers of the human species.
+- [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release): A text-to-image AI by Stability AI that enables users to create images from textual descriptions, emphasizing accessibility and ease of use.
+- [DeepArt](https://deepart.io/): Uses AI to transform photos into artworks based on the styles of famous artists, showcasing the fusion of technology and classical art.
