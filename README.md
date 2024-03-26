@@ -33,4 +33,4 @@ Students have used LLMs of their choice (such as ChatGPT, Gemini, Copilot, etc.)
 
 ## 2024
 
-- [Empowering Language Learning - A Guide to Large Language Models](/presentations/2024/Empowering_Language_Learning_-_A_Guide_to_Large_Language_Models.pptx)
+- [Let's Demystify AI and Take Initiative](/presentations/2024/Let’s_Demystify_AI_and_Take_Initiative.md)
