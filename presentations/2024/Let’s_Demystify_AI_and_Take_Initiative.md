@@ -16,7 +16,7 @@ In this workshop, I argue that we as educators can improve our working condition
 
 * [Watch the video](https://youtu.be/km6GKg3XaAk)
 * [See the slide deck](https://github.com/billcprice3/llm-prompts-for-education/raw/main/presentations/2024/Empowering_Language_Learning_-_A_Guide_to_Large_Language_Models.pptx)
-* [See the script](/presentations/2024/Empowering_Language_Learning.md)
+* [See the transcript](/presentations/2024/Empowering_Language_Learning.md)
 
 ---
 
