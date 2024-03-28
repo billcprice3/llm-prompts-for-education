@@ -1,3 +1,12 @@
+# Presentation by "Artificial Guest Speaker"
+
+![First slide of AI presentation](/presentations/2024/first_slide.png)
+
+* [Watch the video](https://youtu.be/km6GKg3XaAk)
+* [See the slide deck](https://github.com/billcprice3/llm-prompts-for-education/raw/main/presentations/2024/Empowering_Language_Learning_-_A_Guide_to_Large_Language_Models.pptx)
+
+# Transcript
+
 Hello everyone, and welcome! Today, I'm excited to share how Artificial Intelligence, or AI, can transform the way we teach languages. As language instructors, we all know the dedication and creativity it takes to foster a love of learning in our students. But let's be honest, balancing growing class sizes with limited resources can feel like a constant juggling act. So, what if I told you there was a way to work smarter, not harder, and make language learning more engaging and effective for both you and your students? That's where Large Language Models, or LLMs, come in. Over the next few minutes, we'll explore how LLMs can be powerful tools to enhance your teaching and empower your students on their language learning journeys. So, buckle up, get ready to dive into the exciting world of AI, and let's unlock its potential together!
 
 Alright, let's talk about the realities we all face in the classroom. Class sizes seem to be ever-increasing, while resources often feel stretched thin. This can make it a challenge to give each student the individualized attention they deserve. On top of that, keeping students engaged and motivated throughout the semester can be a constant battle.  We all want our students to be excited about learning a new language, but sometimes it can feel like a struggle to keep them energized and  participating actively. But what if there was a way to lessen the burden,  free up some of your time, and create a more dynamic learning environment? Well, LLMs might just be the secret weapon we've been looking for.
