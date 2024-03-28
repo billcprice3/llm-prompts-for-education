@@ -76,6 +76,12 @@ Based on prior request, we will explore these specific prompts as time allows:
 
 ### Prompt engineering and repositories
 
+- Here is one common framework for how to assign a task to a conversational AI:
+    1. Tell it who you are. Example: "I'm an ESL instructor developing study materials."
+    2. Tell it what the project is. Example: "I'm looking for texts that effectively illustrate the meanings of target vocabulary words for my students."
+    3. Tell it what you want it to do. Example: "I want you to write a paragraph that uses each of these target vocabulary words one time."
+    4. Tell it how to write the output. Example: "The paragraph should be about ... The level of complexity should be ... Use/avoid this grammar ..."
+
 - [How to Write Better ChatGPT Prompts](https://www.xelplus.com/chatgpt-prompts-for-best-results/): Article and video by Leila Gharani with specific tips and examples for writing more effective prompts
 
 - [LLM Prompts for Education](/readme.md): Bill Price's repository of prompts.
