@@ -58,7 +58,7 @@ Based on prior request, we will explore these specific prompts as time allows:
 
 ### Hands-on Exploration
 
-- Feel free to log into one of the "Chat-Based Generative AI Tools" listed in the "Additional Resources" section below. You may copy, modify, and remix any of the above demonstration prompts or explore others from [LLM Prompts for Education](/readme.md).
+- Feel free to log into one of the "Chat-Based Generative AI Tools" listed in the "Additional Resources" section below. You may copy, modify, and remix any of the above demonstration prompts or explore others from [LLM Prompts for Education](https://github.com/billcprice3/llm-prompts-for-education/tree/main).
 
 ---
 
