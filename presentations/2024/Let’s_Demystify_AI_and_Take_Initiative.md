@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Generative AI has exploded into the public consciousness over the last year and a half, including text-based tools such as [ChatGPT](https://chat.openai.com/) and image-based tools such as [DALL·E](https://openai.com/dall-e-3). However, many educators remain unsure of how (or whether) to make use of this new class of tools. If we adopt a "wait-and-see" stance to these emerging tools, however, we risk losing our professional initiative to people unfamiliar with the classroom environment, such as policymakers and commercial interests. 
+Generative AI has exploded into the public consciousness over the last year and a half, including text-based tools such as [ChatGPT](https://chat.openai.com/) and image-based tools such as [DALL·E](https://openai.com/dall-e-3). However, many educators remain unsure of how (or whether) to make use of this new class of tools. If we adopt a "wait-and-see" stance to these emerging tools, however, we risk surrendering our professional initiative to people unfamiliar with the classroom environment, such as policymakers and commercial interests. 
 
 In this workshop, I argue that we as educators can improve our working conditions (and our students' learning conditions) if we engage in personal, direct, open exploration of generative AI tools. By the end of this workshop, I hope you will have a stronger understanding of what generative AI tools are; how they work; and how to explore their uses in your educational praxis.
 
