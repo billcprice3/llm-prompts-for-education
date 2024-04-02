@@ -42,6 +42,7 @@ Students have used LLMs of their choice (such as ChatGPT, Gemini, Copilot, etc.)
 ## 2024
 
 - [Let's Demystify AI and Take Initiative](/presentations/2024/Let’s_Demystify_AI_and_Take_Initiative.md)
+- [Three Concepts for Generative AI in Language Education](Three_Concepts_for_Generative_AI_in_Language_Education.md)
 
 ---
 
