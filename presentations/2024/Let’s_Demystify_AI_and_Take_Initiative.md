@@ -84,7 +84,7 @@ Based on prior request, we will explore these specific prompts as time allows:
 
 - [How to Write Better ChatGPT Prompts](https://www.xelplus.com/chatgpt-prompts-for-best-results/): Article and video by Leila Gharani with specific tips and examples for writing more effective prompts
 
-- [LLM Prompts for Education](/readme.md): Bill Price's repository of prompts.
+- [LLM Prompts for Education](https://github.com/billcprice3/llm-prompts-for-education/blob/main/presentations/2024/Let%E2%80%99s_Demystify_AI_and_Take_Initiative.md): Bill Price's repository of prompts.
 
 - [Fabric](https://github.com/danielmiessler/fabric/tree/main/patterns): A repository of prompts by Daniel Miessler. They are not specific to education, but provide excellent examples of what an engineered prompt can look like. See some of Miessler's examples below:
 
