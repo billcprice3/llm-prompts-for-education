@@ -71,7 +71,7 @@ See: [Generate Vocabulary Images](/prompts/Generate_Vocabulary_Images.md)
 
     - the AI produces the image you request
 
-    - legal note: AI-produced images are currently ineligible for copyright in the USA (see, e.g., the [Théâtre D’opéra Spatial](https://fingfx.thomsonreuters.com/gfx/legaldocs/byprrqkqxpe/AI%20COPYRIGHT%20REGISTRATION%20decision.pdf) decision), so there are no intellectual property restrictions on their usage
+    - legal note: as of April 2024, AI-produced images remain ineligible for copyright in the USA (see, e.g., the [Théâtre D’opéra Spatial](https://fingfx.thomsonreuters.com/gfx/legaldocs/byprrqkqxpe/AI%20COPYRIGHT%20REGISTRATION%20decision.pdf) decision), so there are no intellectual property restrictions on their usage (no need to get permissions or pay royalties). It is possible that this copyright doctrine may change in the future.
 
 ---
 
