@@ -4,29 +4,105 @@
 
 ## Introduction
 
-intro
+I'm Bill Price, an ESL instructor with a passion for integrating technology into language instruction. Recently, I led a workshop titled "[Let’s Demystify AI and Take Initiative](/presentations/2024/Let’s_Demystify_AI_and_Take_Initiative.md)," where we explored the potential of generative AI in enhancing both teaching and learning experiences. 
+
+I firmly believe that as educators, it's crucial for us to engage and experiment with generative AI tools. This proactive approach ensures we have a seat at the table as the repercussions of these emerging technologies continue to manifest, allowing us to advocate effectively for our working conditions as well as the learning environments of our students.
+
+Today, I'm happy to share with you three key concepts that have significantly influenced my teaching practice and my students' learning experiences. These concepts aren't just theoretical; they're practical applications that I've been personally developing and testing.
 
 ---
 
 ## Concept 1: AI Agents
 
+### What is an AI Agent?
+
+- An AI Agent acts as a human-like digital assistant, performing tasks or offering services as a human would
+
+- Agents can learn and adapt continuously, enhancing their ability to meet the user’s needs over time
+
+### How is that different from regular ChatGPT?
+
+- What makes an AI Agent special is that you give it a job description *in advance* so that it knows what its role is and how it should interact with you.
+
+- Creating an AI Agent is as simple as "writing the job description."
+
+### Imagine: a virtual writing coach
+
+![writing_coach](/presentations/2024/writing_coach.png)
+
+See: [Writing Coach](/prompts/INFSCI_2205_Writing_Coach.md)
+
+- A flexible writing tutor designed to provide personalized feedback and guidance to students
+
+- Designed to help students maintain academic integrity
+
+- Efficacy has not been directly studied since the interaction is directly between student and AI Agent (teacher not "in the loop")
 
 ---
 
 ## Concept 2: Generative Materials Creation
 
+As the name suggests, "generative AI" (such as ChatGPT) specializes in generating and modifying content.
+
+![Generative Materials Creation](/presentations/2024/materials_creation.png)
+
+### Imagine: generating texts that incorporate target vocabulary
+
+See: [Generate Vocabulary Sentences](/prompts/Generate_Vocabulary_Sentences.md)
+
+- Concept:
+
+    - you feed a list of target vocabulary into the chat, along with a target text complexity level;
+
+    - the AI suggests three possible themes for a text;
+
+    - the AI produces the text you request
+
+### Imagine: generating images to illustrate target vocabulary
+
+See: [Generate Vocabulary Images](/prompts/Generate_Vocabulary_Images.md)
+
+- Concept:
+
+    - you give the AI a word or concept to illustrate;
+
+    - the AI suggests three possible ideas for an image;
+
+    - the AI produces the image you request
+
+    - legal note: AI-produced images are currently ineligible for copyright in the USA (see, e.g., the [Théâtre D’opéra Spatial](https://fingfx.thomsonreuters.com/gfx/legaldocs/byprrqkqxpe/AI%20COPYRIGHT%20REGISTRATION%20decision.pdf) decision), so there are no intellectual property restrictions on their usage
 
 ---
 
-## Concept 3: Grading Assistant
+## Concept 3: AI Grading Assistant
 
+### Imagine: a grading assistant that can draft written feedback on student work
 
+![AI Grading Assistant](/presentations/2024/grading_assistant.png)
+
+See: [Assessing Real Student Work with an Offline LLM](/prompts/Assess_Real_Student_Work_With_Offline_LLM.md)
+
+- The above page documents my experiment in assessing student work with AI assistance 
+
+- I installed a Large Language Model similar to ChatGPT on my own Pitt-issued computer and ran it "fully offline" to ensure full protection of privacy
+
+### CAUTION: RESPECT OUR LEGAL RESPONSIBILITIES TO OUR STUDENTS
+
+- FERPA Compliance: The Family Educational Rights and Privacy Act (FERPA) protects the privacy of student education records. As an instructor, you must never input student work or student information into any tool or software unless it is confirmed to comply with FERPA regulations.
+
+- My suggestions: 
+
+    - Never enter student work or info into any commercial AI product, whether free or paid, unless Pitt has cleared it for us
+
+    - Only use fully-offline, local AI tools such as [GPT4All](https://gpt4all.io/index.html) to perform tasks with student work or student information
 
 ---
 
 ## Conclusion
 
+Through AI Agents, Generative Materials Creation, and Grading Assistants, we've glimpsed the future of educational tools—tools that are not only innovative but also practical and within our grasp. I encourage you, fellow educators, to explore these tools further, to experiment with them in your teaching, and to share your discoveries and insights. 
 
+Together, we can advocate for ways of using these tools to enhance our working conditions as well as our students' learning conditions. We canlead the charge in transforming language education for the better, preparing our students not just for the future of learning, but for the future of thinking and communicating in a rapidly changing world.
 
 ---
 
@@ -50,7 +126,7 @@ intro
 
     - [Extract Wisdom](https://github.com/danielmiessler/fabric/blob/main/patterns/extract_wisdom/system.md) prompt that instructs the AI to "extract surprising, insightful, and interesting information from text content"
 
-### Chat-Based Generative AI Tools (as of March 2024)
+### Chat-Based Generative AI Tools (as of April 2024)
 
 #### Commercial (online)
 
