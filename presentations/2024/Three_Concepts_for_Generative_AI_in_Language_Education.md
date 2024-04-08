@@ -145,8 +145,8 @@ Together, we can advocate for ways of using these tools to enhance our working c
 
 ### Image-Based Generative AI Tools
 
-- [DALL·E 3](https://openai.com/dall-e-3/): A model by OpenAI that can generate detailed images from textual descriptions, offering creative possibilities in visual content creation.
+- [DALL·E 3](https://openai.com/dall-e-3/): Powers the image creation of ChatGPT and Microsoft Copilot.
 
-- [Midjourney](https://www.midjourney.com/): An independent research lab's image synthesis tool that explores new mediums of thought and expands the imaginative powers of the human species.
+- [Midjourney](https://www.midjourney.com/)
 
-- [Stable Diffusion](https://stability.ai/stable-image): A text-to-image AI by Stability AI that enables users to create images from textual descriptions, emphasizing accessibility and ease of use.
+- [Stable Diffusion](https://stability.ai/stable-image)
