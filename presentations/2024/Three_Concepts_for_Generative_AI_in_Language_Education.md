@@ -5,7 +5,7 @@
 
 ## Introduction
 
-I'm Bill Price, an ESL instructor with a passion for integrating technology into language instruction. Recently, I led a workshop titled "[Let’s Demystify AI and Take Initiative](/presentations/2024/Let’s_Demystify_AI_and_Take_Initiative.md)," where we explored the potential of generative AI in enhancing both teaching and learning experiences. 
+I'm Bill Price, an ESL instructor with a passion for integrating technology into language instruction. I run a free, public GitHub repository called [LLM Prompts for Education](https://github.com/billcprice3/llm-prompts-for-education/). Recently, I led a workshop titled "[Let’s Demystify AI and Take Initiative](/presentations/2024/Let’s_Demystify_AI_and_Take_Initiative.md)," where we explored the potential of generative AI in enhancing both teaching and learning experiences. 
 
 I firmly believe that as educators, it's crucial for us to engage and experiment with generative AI tools. This proactive approach ensures we have a seat at the table as the repercussions of these emerging technologies continue to manifest, allowing us to advocate effectively for our working conditions as well as the learning environments of our students.
 
