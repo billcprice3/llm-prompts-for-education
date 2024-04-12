@@ -13,7 +13,8 @@ Today, I'm happy to share with you three key concepts that have significantly in
 
 Follow along here:
 
-![bp3concepts.png](/presentations/2024/bp3concepts.png)
+![bp3concepts](/presentations/2024/bp3concepts.png)
+
 https://tinyurl.com/bp3concepts
 
 ---
