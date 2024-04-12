@@ -11,11 +11,7 @@ I firmly believe that as educators, it's crucial for us to engage and experiment
 
 Today, I'm happy to share with you three key concepts that have significantly influenced my teaching practice and my students' learning experiences. These concepts aren't just theoretical; they're practical applications that I've been personally developing and testing.
 
-Follow along here:
-
-![bp3concepts](/presentations/2024/bp3concepts.png)
-
-https://tinyurl.com/bp3concepts
+Follow along here: https://tinyurl.com/bp3concepts
 
 ---
 
