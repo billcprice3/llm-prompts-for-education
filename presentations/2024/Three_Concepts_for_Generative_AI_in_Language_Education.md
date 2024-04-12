@@ -11,6 +11,11 @@ I firmly believe that as educators, it's crucial for us to engage and experiment
 
 Today, I'm happy to share with you three key concepts that have significantly influenced my teaching practice and my students' learning experiences. These concepts aren't just theoretical; they're practical applications that I've been personally developing and testing.
 
+Follow along here:
+
+![/bp3concepts.png](bp3conceptsQRcode)
+https://tinyurl.com/bp3concepts
+
 ---
 
 ## Concept 1: AI Agents
