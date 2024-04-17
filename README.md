@@ -12,6 +12,7 @@ Students have used LLMs of their choice (such as ChatGPT, Gemini, Copilot, etc.)
 - [Generate Vocabulary Images](prompts/Generate_Vocabulary_Images.md)
 - [Generate Vocabulary Texts/Sentences](prompts/Generate_Vocabulary_Sentences.md)
 - [Summarize Scientific Journal Article](prompts/NotebookLM_Summarize_Article.md)
+- [Generate Song Lyrics](prompts/Generate_Song_Lyrics.md)
 
 ---
 
