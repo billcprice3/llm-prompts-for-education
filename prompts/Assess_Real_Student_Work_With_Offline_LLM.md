@@ -4,7 +4,7 @@
 
 There are substantial concerns connected to the legality and the privacy issues of an instructor sharing student work directly with commercial LLMs such as ChatGPT. As such, I wanted to determine if a viable "fully local" workflow exists for using a LLM to assess or analyze student work such that the work never leaves a secure system and can never be cached or fed into a commercial model's training data.
 
-# Experiment 1 (Nous Hermes 2 Mistral DPO) 
+# Experiment 1 (Nous Hermes 2 Mistral DPO), March 2023
 
 # Configuration
 
