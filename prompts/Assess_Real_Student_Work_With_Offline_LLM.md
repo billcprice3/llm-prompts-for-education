@@ -90,7 +90,7 @@ I used a 2023 model year MacBook Pro with the M2 Pro chipset and 16 GB RAM.
 
 ## Software setup and configuration
 
-1. I installed the free program [LM Studio]([https://gpt4all.io/](https://lmstudio.ai/)).
+1. I installed the free program [LM Studio](https://lmstudio.ai/).
 
 2. After installing the program, I launched it. In the model search box, I searched the string **lmstudio llama 3** and downloaded the model titled **Meta-Llama-3-8B-Instruct-Q6_K.gguf**.
 
