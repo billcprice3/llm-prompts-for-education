@@ -17,8 +17,8 @@ Students have used LLMs of their choice (such as ChatGPT, Gemini, Copilot, etc.)
 ---
 
 # Securely assessing student work offline
-- [Assessing real student reflections on a lecture](prompts/Assess_Real_Student_Reflections_On_A_Lecture.md) (to ensure security, privacy, & legal compliance)
-- [Assessing real student argumentative essays](prompts/Assess_Real_Student_Argumentative_Essays.md) (to ensure security, privacy, & legal compliance)
+- [Assessing real student reflections on a lecture](prompts/Assess_Real_Student_Reflections_On_A_Lecture.md)
+- [Assessing real student argumentative essays](prompts/Assess_Real_Student_Argumentative_Essays.md)
 
 ---
 
