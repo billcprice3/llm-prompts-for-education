@@ -187,6 +187,6 @@ Because this is a listening course and not a writing course, my pedagogical goal
 
 ## Chat message 3
 
-Given your understanding of the goals of the assignment and assessment, imagine you are the instructor and that you are providing feedback. Please provide feedback directly to the student for this text. Your tone, grammar, and vocabulary should be calibrated as though you are speaking to a 5th grade student. Limit yourself to 50 words maximum (shorter is OK).
+Given your understanding of the goals of the assignment and assessment, imagine you are the instructor and that you are providing feedback. I will send you student answers one by one. For each student answer I send you, please provide feedback directly to the student who wrote that text. Your tone, grammar, and vocabulary should be calibrated as though you are speaking to a 5th grade student. Limit yourself to 50 words maximum (shorter is OK).
 
-STUDENT_RESPONSE_HERE
+Are you ready to begin?
