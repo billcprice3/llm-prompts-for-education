@@ -189,4 +189,4 @@ Because this is a listening course and not a writing course, my pedagogical goal
 
 Given your understanding of the goals of the assignment and assessment, imagine you are the instructor and that you are providing feedback. I will send you student answers one by one. For each student answer I send you, please provide feedback directly to the student who wrote that text. Your tone, grammar, and vocabulary should be calibrated as though you are speaking to a 5th grade student. Limit yourself to 50 words maximum (shorter is OK).
 
-Are you ready to begin?
+Are you ready to begin? If so, say "yes," and I will send the first of several student answers.
