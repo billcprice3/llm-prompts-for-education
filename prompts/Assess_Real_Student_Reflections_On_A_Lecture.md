@@ -164,3 +164,29 @@ Using the same instructions, assess this student response: *[Note: Real student 
 **Llama 3:** 
 
 "I appreciate your enthusiasm for the speaker's ideas! However, I'd like you to go beyond agreeing or liking specific points. How do these ideas make you think about justice and punishment? What does it mean to 'amplify restorative justice'? Can you explain why you liked the idea of hiring prisoners?"
+
+# More general template
+
+## Chat message 1
+
+I want you to read this text and summarize it in five bullet points. It is a TED talk. 
+
+SPEAKER - TITLE
+
+TRANSCRIPT
+
+## Chat message 2
+
+You will help me give feedback on student work in an ESL listening course. Students have intermediate level ESL proficiency. Context: Students watched the speech talk above and wrote reflections about it.
+
+Written task instructions given to the students: "Describe your reaction to and opinion of this speech. Remember, you are writing your opinion, not a summary. Write at least five sentences. (Example: I think this speech was…  I agree/I disagree with this speaker’s opinion because…)"
+
+Verbally, I encourage students to share their personal thoughts and ideas. I tell them that I already know what the lecture is about, so they should write what the lecture makes THEM think about instead of summarizing what they heard. (In other words, I am looking for personal reflections and/or elements of a critical analysis, in the sense of critical literacy, rather than summary.) I am also looking for texts written ABOVE a sentence-level. In other words, texts where the ideas chain or build from sentence to sentence, rather than texts that seem fragmented or point-by-point.
+
+Because this is a listening course and not a writing course, my pedagogical goal in this activity is to invite students to engage critically with a text rather than (e.g.) simply plumbing it for multiple-choice answers. For this assignment, I do not generally give feedback on writing skills and mechanics; rather, I focus my feedback on how well the student seems to have connected to the text. If the answer engages with the text in a personal or critical way, I give positive feedback, and if the answer primarily summarizes the text or only touches on it at a very surface level, I encourage the student to consider more personal or critical analysis of the text. Does my perspective on the assignment and assessment make sense to you?
+
+## Chat message 3
+
+Given your understanding of the goals of the assignment and assessment, imagine you are the instructor and that you are providing feedback. Please provide feedback directly to the student for this text. Your tone, grammar, and vocabulary should be calibrated as though you are speaking to a 5th grade student. Limit yourself to 50 words maximum (shorter is OK).
+
+STUDENT_RESPONSE_HERE
