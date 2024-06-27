@@ -32,9 +32,13 @@ The content is presented in a clear, accessible manner, with plenty of examples 
 
 Would you like me to explain or elaborate on any part of this resource? Or would you prefer to see a different approach to teaching thesis statements?
 
+---
+
 *Note: the material below appeared in a separate frame of the window to the right of the chat, as in the screenshot below*
 
 ![Claude 3.5 Sonnet's Artifact View](Claude_3.5_Sonnet_Draft_OER_Using_Artifact.png)
+
+---
 
 # Understanding and Writing Thesis Statements: A Guide for Intermediate English Learners
 
