@@ -14,6 +14,7 @@ Students have used LLMs of their choice (such as ChatGPT, Gemini, Copilot, etc.)
 - [Generate Vocabulary Texts/Sentences](prompts/Generate_Vocabulary_Sentences.md)
 - [Summarize Scientific Journal Article](prompts/NotebookLM_Summarize_Article.md)
 - [Generate Song Lyrics](prompts/Generate_Song_Lyrics.md)
+- [Trying Claude 3.5 Sonnet's "Artifact" view for creating an OER](prompts/Claude_3.5_Sonnet_Draft_OER_Using_Artifact.md)
 
 ---
 
