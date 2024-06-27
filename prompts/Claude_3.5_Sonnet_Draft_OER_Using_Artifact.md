@@ -7,7 +7,9 @@ Let's attempt to generate an open educational resource that teaches the creation
 Thesis statements are taught in many ways, but my own preference is to teach a three-part structure:
 
 Topic: the "thing" the essay is about
+
 Controlling idea: your "claim" about the topic
+
 Key points: A preview of your main sources of evidence to support your claim; usually there are three key points in a five-paragraph essay, one for each body paragraph. There should be a clear correspondence between the key points in the thesis statement and the topic sentences of the body paragraphs.
 
 There is an optional fourth part to the thesis statement: A concession or acknowledgement. "Although it is true that ...," "While some believe that ...,"
