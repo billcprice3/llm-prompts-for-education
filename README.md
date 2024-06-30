@@ -18,6 +18,12 @@ Students have used LLMs of their choice (such as ChatGPT, Gemini, Copilot, etc.)
 
 ---
 
+# Citing and licensing AI-assisted work
+
+- [AI Attribution Scenarios](prompts/AI_Attribution_Scenarios.md)
+
+---
+
 # Securely assessing student work offline
 - [Assessing real student reflections on a lecture](prompts/Assess_Real_Student_Reflections_On_A_Lecture.md)
 - [Assessing real student argumentative essays](prompts/Assess_Real_Student_Argumentative_Essays.md)
