@@ -1,4 +1,4 @@
-In exploring the concept of developing Open Educational Resources with AI assistance, I queried Claude 3.5 Opus with the following prompt:
+In exploring the concept of developing Open Educational Resources with AI assistance, I queried Claude 3.5 Sonnet with the following prompt:
 
 # User:
 
@@ -14,7 +14,7 @@ Let's suppose:
 
 From that starting point, I want you to meditate on these (and any related) issues and present me with multiple scenarios for attribution/licensing, as many as seem pertinent for an intelligent discussion on these issues.
 
-# Claude 3.5 Opus:
+# Claude 3.5 Sonnet:
 
 This is an important and complex issue that deserves careful consideration. You're right that we're in a transitional period where norms and best practices around AI attribution in academic and creative works are still evolving. Let me present a few potential scenarios and approaches for attribution and licensing, along with some pros and cons to consider.
 
