@@ -1,13 +1,21 @@
 *This was an experiment to test out my [Writing Textbook Project Synopsis](Writing_Textbook_Project_Synopsis.md) and see how an LLM would do at making a textbook unit.*
 
+---
+
 # Experiment 1: ChatGPT GPT-4o
+
+---
 
 # User:
 *user pasted the entire [Writing Textbook Project Synopsis](Writing_Textbook_Project_Synopsis.md) here*
 
 Write a chapter that reviews basic paragraph structure, including topic sentence; supporting sentences; and conclusion. Use example text(s), exposition, and exercises as needed.
 
+---
+
 # ChatGPT GPT-4o's response
+
+---
 
 # Chapter 3: Understanding Basic Paragraph Structure
 
@@ -92,12 +100,18 @@ Understanding the basic structure of a paragraph is crucial for effective writin
 
 # Experiment 2: Claude 3.5 Sonnet
 
+---
+
 # User:
 *user pasted the entire [Writing Textbook Project Synopsis](Writing_Textbook_Project_Synopsis.md) here*
 
 Write a chapter that reviews basic paragraph structure, including topic sentence; supporting sentences; and conclusion. Use example text(s), exposition, and exercises as needed.
 
+---
+
 # Claude 3.5 Sonnet's response
+
+---
 
 Certainly, I'd be happy to draft a chapter on basic paragraph structure for the Writing 5 ESL textbook. I'll create this content in Markdown format, keeping in mind the style and output guidelines you've provided. Let's begin with an overview of paragraph structure, followed by detailed explanations, examples, and exercises.
 
