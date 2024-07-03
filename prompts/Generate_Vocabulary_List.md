@@ -34,7 +34,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 ```
 
 ### Reminder
-Note the approachable style of the above definitions in the vocabulary list. Write your output in the same style, such that a fifth grade student could easily understand the definitions.
+Note the approachable style of the above definitions in the vocabulary list. Write your output in the same style, such that a fourth grade student could easily understand the definitions.
 
 # INPUT
 
