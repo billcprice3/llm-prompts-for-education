@@ -15,7 +15,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Only output text formatted in Markdown. For example, use ### symbols for headings, ** for bold, and so on. Use well-formatted unordered lists wherever appropriate.
 - Do not give warnings or notes; only output the requested sections with all requested content. Trust that the user can critically analyze and modify your output later if needed.
 - Use unordered bulleted lists for output, not numbered lists.
-- Because these definitions are for ESL learners, please write your definitions in an approachable style such that a 5th grader could easily comprehend them, avoiding complex vocabulary and grammar.
+- Because these definitions are for ESL learners, please write your definitions in an approachable style at a fourth grade reading level such that a child could easily comprehend them, avoiding complex vocabulary and grammar.
 - Format each vocabulary list item with the following components: the term, the part of speech, and the definition. Do not include examples or other extraneous material in the vocabulary list items. See the example output below.
 - Ensure you follow ALL these instructions when creating your output.
 
