@@ -37,6 +37,8 @@ Students have used LLMs of their choice (such as ChatGPT, Gemini, Copilot, etc.)
 
 ## Technical Communication for Information Science
 
+[Index Page for INFSCI 2205](prompts/INFSCI_2205_Index.md)
+
 - [Writing coach](prompts/INFSCI_2205_Writing_Coach.md)
 - [Library catalog search query suggestions](prompts/INFSCI_2205_Search_Query_Suggestions.md)
 - [Make flashcards from an article](prompts/INFSCI_2205_Make_Flashcards_From_Article.md)
