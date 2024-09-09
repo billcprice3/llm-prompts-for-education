@@ -10,5 +10,4 @@ Field name
 - List of suggested search queries:
 
 ## Example output:
-- [GPT3.5](INFSCI_2205_Search_Query_Suggestions_output_3.5.md)
-- [GPT-4](INFSCI_2205_Search_Query_Suggestions_output_4.md)
+- [GPT-4o](INFSCI_2205_Search_Query_Suggestions_output_4o.md)
