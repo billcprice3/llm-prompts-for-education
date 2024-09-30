@@ -4,6 +4,7 @@ This is a collection of LLM prompts developed by [Bill Price](https://billcprice
 
 - [Writing coach](INFSCI_2205_Writing_Coach.md)
 - [Library catalog search query suggestions](INFSCI_2205_Search_Query_Suggestions.md)
+- [Introduction Hook Suggestions](INFSCI_2205_Introduction_Hook_Suggestions.md)
 - [Make flashcards from an article](INFSCI_2205_Make_Flashcards_From_Article.md)
 - [Paraphrase Assistant](INFSCI_2205_Paraphrase_Assistant.md)
 - [Argumentative Essay Outline Feedback](INFSCI_2205_Argumentative_Essay_Outline_Feedback.md)
