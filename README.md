@@ -57,6 +57,10 @@ Students have used LLMs of their choice (such as ChatGPT, Gemini, Copilot, etc.)
 
 I have had great success with these models on a 2023 model year MacBook Pro with the M2 Pro chipset, presented here from most recent to oldest model:
 
+### Recent
+- March 2025: [Gemma 3 12b](https://huggingface.co/lmstudio-community/gemma-3-12b-it-GGUF)
+
+### Older
 - Circa June 2024: [Qwen2-7B-Instruct-GGUF](https://huggingface.co/MaziyarPanahi/Qwen2-7B-Instruct-GGUF) run via LM Studio
 - Circa May 2024: [Meta-Llama-3-8B-Instruct-GGUF](https://huggingface.co/lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF) run via LM Studio
 - Circa March 2024: [Nous-Hermes-2-Mistral-7B-DPO](https://huggingface.co/NousResearch/Nous-Hermes-2-Mistral-7B-DPO) run via GPT4All
