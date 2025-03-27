@@ -76,3 +76,21 @@ Please let me know which of these concepts you'd like me to use for the illustra
 ![outcome](Generate_Vocabulary_Images_example_image.webp)
 
 Here is the illustration representing the concept of "outcome" as you requested. On one side, you can see a person planting a small tree, and on the other side, the same tree is fully grown with people harvesting its fruits. This should visually convey the idea of the long-term positive outcome of an action without using any text.
+
+## NEW Comparison image made by GPT-4o with the March 2024 image generation update
+
+**ChatGPT:** 
+
+Yes, I'm ready! Send me your first word or concept, and I'll provide three possible ways to illustrate it.
+
+**User:**
+
+Please create the following image for the word "outcome"; I don't need suggestions.
+
+"A person planting a tree, and next to it, the future outcome of their action: a full-grown tree with fruits being picked by people, showing the long-term outcome of a single action."
+
+**ChatGPT:**
+
+![outcome](Generate_Vocabulary_Images_example_image_3.png)
+
+Let me know if you need any modifications or another illustration.
