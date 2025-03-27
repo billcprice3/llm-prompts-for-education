@@ -45,7 +45,7 @@ Let me know which concept you'd like me to illustrate!
 Let me know the next word or concept you'd like illustrated.
 
 
-## Example output (GPT-4):
+## OLD Example output (GPT-4):
 
 **ChatGPT:** 
 
