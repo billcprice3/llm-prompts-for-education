@@ -11,6 +11,40 @@ In the following messages, I will prompt you with words or concepts one at a tim
 
 Are you ready to begin?
 
+## NEW: Example output (GPT-4o with March 2025 image generation update):
+
+**ChatGPT:** 
+
+Yes, I'm ready! Send me your first word or concept, and I'll provide three different ways to illustrate it.
+
+**User:** 
+
+outcome
+
+**ChatGPT:** 
+
+Here are three different ways to illustrate the concept of **"outcome"** without using text:
+
+1.  **Path Divergence to Result** – A person stands at the start of two different paths. One path leads to a trophy (success), while the other leads to a broken sign (failure). This visually represents how different choices lead to different outcomes.
+    
+2.  **Plant Growth from Different Care** – Two identical plants in separate pots receive different treatment: one is watered and placed in sunlight, growing tall and healthy; the other is neglected, wilting and turning brown. This conveys how different actions lead to different results.
+    
+3.  **Student Exam Results** – Two students take an exam: one looks confident and prepared, while the other looks stressed and unprepared. Later, the confident student receives a high score, while the stressed student gets a low score. This shows how effort leads to different outcomes.
+    
+
+Let me know which concept you'd like me to illustrate!
+
+**User:**
+
+2
+
+**ChatGPT:**
+
+![outcome](Generate_Vocabulary_Images_example_image_2.png)
+
+Let me know the next word or concept you'd like illustrated.
+
+
 ## Example output (GPT-4):
 
 **ChatGPT:** 
