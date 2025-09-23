@@ -39,6 +39,7 @@ Students have used LLMs of their choice (such as ChatGPT, Gemini, Copilot, etc.)
 
 [Index Page for INFSCI 2205](prompts/INFSCI_2205_Index.md)
 
+- [Literature Mapping for Research Topic](INFSCI_2205_Literature_Mapping_for_Research_Topic.md) **NEW**
 - [Writing coach](prompts/INFSCI_2205_Writing_Coach.md)
 - [Library catalog search query suggestions](prompts/INFSCI_2205_Search_Query_Suggestions.md)
 - [Introduction Hook Suggestions](prompts/INFSCI_2205_Introduction_Hook_Suggestions.md)
