@@ -4,7 +4,7 @@ This guide features a powerful workflow I experimented with in September 2025 fo
 
 ### A Free Solution for High-Quality Captions
 
-Educators who use video content are often faced with the poor quality of auto-generated captions on platforms like YouTube. These captions can be so inaccurate that they are unsuitable for classroom use, creating an accessibility barrier for students.
+Educators who create or use video content are often faced with the poor quality of auto-generated captions on platforms like YouTube. These captions can be so inaccurate that they are unsuitable for classroom use, creating an accessibility barrier for students.
 
 I recently encountered this issue when preparing a film trailer for a listening comprehension activity. The platform's default captions were not usable. As an alternative, I tried out the open-source program [**Buzz Captions**](https://buzzcaptions.com/) to process the video file locally. Using the `medium` Whisper model, the program generated a nearly-perfect transcript and a ready-to-use `.srt` subtitle file in under a minute. The result was a dramatic improvement in quality over the automatically generated YouTube version of the subtitles.
 
