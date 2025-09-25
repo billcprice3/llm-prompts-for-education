@@ -1,4 +1,4 @@
-# Generating Subtitles from a Video
+# Generating Transcripts or Subtitles from a Video
 
 This guide features a powerful workflow I experimented with in September 2025 for creating accurate, accessible video captions using an open-source AI tool that can be a valuable asset for any educator working with digital media: [Buzz Captions](https://buzzcaptions.com/).
 
