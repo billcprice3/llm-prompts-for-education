@@ -44,7 +44,7 @@ This workflow is a strong choice for educators who need to produce accurate capt
 
     -   Make sure your video file and subtitle file (`.srt`) are in the same directory and named correctly (see part 4 above).
    
-    -   Most modern video player programs such as **[VLC](https://www.videolan.org/vlc/)** will automatically associate the subtitle file with the video file when you open it. You may need to go to `Subtitles` > `Subtitle Track...` in the VLC interface to toggle the visiblility of the subtitle track on-screen.
+    -   Most modern video player programs such as **[VLC](https://www.videolan.org/vlc/)** will automatically associate the subtitle file with the video file when you open it. You may need to go to `Subtitles` > `Subtitle Track...` in the VLC interface to toggle the visibility of the subtitle track on-screen.
 
 6.  **Modifying the Subtitles**
 
