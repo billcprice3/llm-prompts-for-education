@@ -42,13 +42,13 @@ This workflow is a strong choice for educators who need to produce accurate capt
   
 5.  **Playing your Video with Captions**
 
-   -   Make sure your video file and subtitle file (`.srt`) are in the same directory and named correctly (see part 4 above).
+    -   Make sure your video file and subtitle file (`.srt`) are in the same directory and named correctly (see part 4 above).
    
-   -   Most modern video player programs such as **[VLC](https://www.videolan.org/vlc/)** will automatically associate the subtitle file with the video file when you open it. You may need to go to `Subtitles` > `Subtitle Track...` in the VLC interface to toggle the visiblility of the subtitle track on-screen.
+    -   Most modern video player programs such as **[VLC](https://www.videolan.org/vlc/)** will automatically associate the subtitle file with the video file when you open it. You may need to go to `Subtitles` > `Subtitle Track...` in the VLC interface to toggle the visiblility of the subtitle track on-screen.
 
 6.  **Modifying the Subtitles**
 
-   - If your subtitles aren't quite perfect, you can open your `SRT` file in any simple text editing program such as `Notepad` or `TextEdit` and change any mistakes by hand.
+       -   If your subtitles aren't quite perfect, you can open your `SRT` file in any simple text editing program such as `Notepad` or `TextEdit` and change any mistakes by hand.
 
 ## The Underlying Technology: Buzz + Whisper
 
