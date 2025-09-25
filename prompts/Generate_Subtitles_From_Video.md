@@ -39,7 +39,16 @@ This workflow is a strong choice for educators who need to produce accurate capt
     -   Use the `Export` button to save the transcript. For video subtitles, the **`.srt`** format is standard.
   
     -   If your video file is named `videofilename.mkv`, you should name your subtitle filename something like `videofilename.en.srt`, where the first part of the filename is **identical** to the video filename; then a dot; then a [2- or 3-character ISO language code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) such as `en` for English or `fr` for French, etc.; then `.srt`.
-        
+  
+5.  **Playing your Video with Captions**
+
+   -   Make sure your video file and subtitle file (`.srt`) are in the same directory and named correctly (see part 4 above).
+   
+   -   Most modern video player programs such as **[VLC](https://www.videolan.org/vlc/)** will automatically associate the subtitle file with the video file when you open it. You may need to go to `Subtitles` > `Subtitle Track...` in the VLC interface to toggle the visiblility of the subtitle track on-screen.
+
+6.  **Modifying the Subtitles**
+
+   - If your subtitles aren't quite perfect, you can open your `SRT` file in any simple text editing program such as `Notepad` or `TextEdit` and change any mistakes by hand.
 
 ## The Underlying Technology: Buzz + Whisper
 
