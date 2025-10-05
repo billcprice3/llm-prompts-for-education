@@ -1,8 +1,10 @@
 # llm-prompts-for-education
 
-I am an educator. This is a repository of prompts I have developed for use in curricula I have taught.
+I am an educator. This is a repository of LLM prompts (and similar materials) I have developed for use in curricula I have taught.
 
-Students have used LLMs of their choice (such as ChatGPT, Gemini, Copilot, etc.) to run these prompts.
+Some prompts are instructor-facing, as for assistance in drafting materials.
+
+For student-facing prompts, students have used LLMs of their choice (such as ChatGPT, Gemini, Copilot, etc.) to run these prompts.
 
 ---
 
