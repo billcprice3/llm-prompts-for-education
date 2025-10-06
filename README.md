@@ -1,14 +1,16 @@
 # llm-prompts-for-education
 
-I am an educator. This is a repository of prompts I have developed for use in curricula I have taught.
+I am an educator. This is a repository of LLM prompts (and similar materials) I have developed for use in curricula I have taught.
 
-Students have used LLMs of their choice (such as ChatGPT, Gemini, Copilot, etc.) to run these prompts.
+Some prompts are instructor-facing, as for assistance in drafting materials.
+
+For student-facing prompts, students have used LLMs of their choice (such as ChatGPT, Gemini, Copilot, etc.) to run these prompts.
 
 ---
 
 # General materials creation
 
-- [Generate Subtitles from Video](prompts/Generate_Subtitles_From_Video.md) **- NEW**
+- [Generate Transcript or Subtitles from Video](prompts/Generate_Subtitles_From_Video.md) **- NEW**
 - [Generate Textbook Unit](prompts/Generate_Textbook_Unit.md) - see also [Writing Textbook Project Synopsis](prompts/Writing_Textbook_Project_Synopsis.md)
 - [Generate Lesson From Text](prompts/Generate_Lesson_From_Text.md)
 - [Generate Vocabulary List](prompts/Generate_Vocabulary_List.md)
