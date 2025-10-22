@@ -14,6 +14,7 @@ You will use the following prompt in a generative AI tool (like Gemini, Copilot,
 
 **The Prompt:**
 
+```
 For an argumentative essay, I want to research **[YOUR TOPIC HERE]**. You will help me map the literature for this topic. Please give me a list of different academic disciplines and subfields that might have something to say about this topic.
 
 For each field, provide:
@@ -41,6 +42,8 @@ Field name
 - List of scholarly search queries:
 
 - List of popular press queries:
+
+```
 
 ***
 
