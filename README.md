@@ -38,6 +38,8 @@ For student-facing prompts, students have used LLMs of their choice (such as Cha
 
 # Prompts designed for specific curricula
 
+## LING 7 - ESL Writing Intermediate
+- [Literature Mapping](/prompts/LING_7_Literature_Mapping.md) **- NEW**
 ## Technical Communication for Information Science
 
 [Index Page for INFSCI 2205](prompts/INFSCI_2205_Index.md)
