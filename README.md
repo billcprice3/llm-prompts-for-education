@@ -75,11 +75,15 @@ I have had great success with these models on a 2023 model year MacBook Pro with
 
 # Presentations
 
-## 2024
+## 2025
 
 - 2025-10-17: [Just a scaffold, not an architect - AI as a literature mapping tool for students](/presentations/2025/Just_a_scaffold,_not_an_architect_-_AI_as_a_literature_mapping_tool_for_students.md)
-- 2024-03-28: [Let's Demystify AI and Take Initiative](presentations/2024/Let’s_Demystify_AI_and_Take_Initiative.md). Workshop, English Language Institute Curriculum Meeting.
+
+## 2024
+
 - 2024-04-12: [Three Concepts for Generative AI in Language Education](presentations/2024/Three_Concepts_for_Generative_AI_in_Language_Education.md). Panel presentation, Technology in Language Teaching Forum.
+
+- 2024-03-28: [Let's Demystify AI and Take Initiative](presentations/2024/Let’s_Demystify_AI_and_Take_Initiative.md). Workshop, English Language Institute Curriculum Meeting.
 
 ---
 
