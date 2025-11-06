@@ -6,7 +6,7 @@
 
 # Transcript of Poster Text
 
-## 💡 Just a scaffold, not an architect: AI as a literature mapping tool for students
+## Just a scaffold, not an architect: AI as a literature mapping tool for students
 
 **Bill Price**
 Department of Linguistics
