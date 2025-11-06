@@ -16,40 +16,42 @@ University of Pittsburgh
 
 ### The Challenge
 
-* **Graduate students often struggle to see the full interdisciplinary scope of their research topics.**
-* The rise of Generative AI presents a further challenge, as students' unguided use of these tools can lead to **superficial** (or ethically and epistemologically fraught) engagement rather than deeper inquiry.
-* There is a clear pedagogical need for **structured, responsible methods of integrating AI** into the research process that **foster, rather than replace, critical thinking** and mature research habits.
+* Graduate students often struggle to see the **full interdisciplinary scope** of their research topics.
+* The rise of **Generative AI** presents a further challenge, as students' unguided use of these tools can lead to superficial (or ethically and epistemologically fraught) engagement rather than deeper inquiry.
+* There is a clear pedagogical need for **structured, responsible methods** of integrating AI into the research process that foster, rather than replace, critical thinking and mature research habits.
 
 ---
 
 ### The Intervention: AI as Cartographer
 
-* This intervention pilots an **"AI-assisted literature mapping"** assignment in a graduate writing course which frames AI's role as a **"recommender engine."**
+* This intervention pilots an **"AI-assisted literature mapping"** assignment in a graduate writing course which frames AI's role as a "recommender engine."
 * Students use a **single, structured prompt** that tasks an LLM with identifying relevant academic disciplines and perspectives and generating potential library catalog search queries for a topic the student is interested in researching.
 * Students are guided to the published literature via library catalog searches.
 * This structured approach provides a **scaffold** for students (Vygotsky, 1978) to practice **"boundary crossing"** (Akkerman & Bakker, 2011) and engage in **"scholarship as conversation"** (American Library Association, 2016).
 
-
-
 #### Student prompt sent to GenAI tool
 
-> **I want to research the impact of AI on employment**
->
-> **You will help me map the literature for this topic.**
->
-> Please give me a list of different academic **disciplines and subfields** that might have something to say about this topic.
->
-> For each field, provide a **summary of their contributions** to the topic or issue as well as a **summary of their concerns** about the issue.
->
-> Finally, also include a **list of suggested search queries** I can use to find relevant scholarly sources in a university library catalog.
+```
+I want to research the impact of AI on employment.
+You will help me map the literature for this topic.
+Please give me a list of different academic
+disciplines and subfields that might have
+something to say about this topic. For each field,
+provide a summary of their contributions to the
+topic or issue as well as a summary of their
+concerns about the issue. Finally, also include a
+list of suggested search queries I can use to find
+relevant scholarly sources in a university library
+catalog.
 
-#### Example output format for our literature map:
+Example output format for our literature map:
 
-* Field name
-    * **Relevant subfields:**
-    * **Contributions:**
-    * **Concerns:**
-    * **List of suggested search queries:**
+Field name
+- Relevant subfields:
+- Contributions:
+- Concerns:
+- List of suggested search queries:
+```
 
 #### Excerpt of responses from Gemini 2.5 Flash
 *(Sections of the excerpt are transcribed below as they appear on the poster)*
@@ -94,21 +96,24 @@ University of Pittsburgh
 
 ### Outcomes & Key Insights
 
-* **High Metacognitive Engagement:** Student reflections demonstrated a **high level of metacognitive activation**. Students reported that the activity prompted them to think critically about the research process, including their ability to cross interdisciplinary lines and join a broader, more richly contextualized conversation about their topics of interest.
-* **Shift in Perspective on AI:** The activity provided a positive and concrete model for the **ethical use of AI in research**, building student confidence in using AI as a **brainstorming partner**, not as a source of final truth or as a replacement for human thought and authorship.
+* **High Metacognitive Engagement:** Student reflections demonstrated a high level of metacognitive activation. Students reported that the activity prompted them to think critically about the research process, including their ability to cross interdisciplinary lines and join a broader, more richly contextualized conversation about their topics of interest.
+* **Shift in Perspective on AI:** The activity provided a positive and concrete model for the ethical use of AI in research, building student confidence in using AI as a brainstorming partner, not as a source of final truth or as a replacement for human thought and authorship.
 
 ---
 
 ### Implications for Teaching
 
-* **A Practical Model for Responsible AI Integration:** This assignment serves as a **replicable, low-stakes model** for instructors who want to integrate GenAI into their courses in a way that **enhances, rather than undermines**, traditional literature review and research skills.
-* **Fostering Student Agency:** By putting the student in the role of the prompter and analyst, the assignment **empowers students to take ownership** of their research trajectory from the beginning and encourages a less siloed and more interdisciplinary literature-grounded approach to their scholarly work.
+* **A Practical Model for Responsible AI Integration:** This assignment serves as a replicable, low-stakes model for instructors who want to integrate GenAI into their courses in a way that enhances, rather than undermines, traditional literature review and research skills.
+* **Fostering Student Agency:** By putting the student in the role of the prompter and analyst, the assignment empowers students to take ownership of their research trajectory from the beginning and encourages a less siloed and more interdisciplinary literature-grounded approach to their scholarly work.
 
 ---
 
 ### Find Out More
 
-Scan these codes:  
+*The following appeared as QR codes on the original poster*
+
+* [Assignment text on Github](https://github.com/billcprice3/llm-prompts-for-education/blob/main/prompts/INFSCI_2205_Literature_Mapping_for_Research_Topic.md)
+* [Video presentaton](https://youtu.be/UdvHET8gxq0)
 
 **Contact:** Bill Price (billcprice.com, wcp5@pitt.edu)
 
@@ -116,6 +121,6 @@ Scan these codes:
 
 ### References
 
-* Akkerman, S. F. & Bakker, A. (2011). *Boundary Crossing and Boundary Objects*. Review of Educational Research, 81(2), 132-168. https://doi.org/10.3102/0034664311404435
+* Akkerman, S. F. & Bakker, A. (2011). Boundary Crossing and Boundary Objects. *Review of Educational Research, 81*(2), 132-168. https://doi.org/10.3102/0034664311404435
 * American Library Association. (2016, February 9). *Framework for Information Literacy for Higher Education*. https://www.ala.org/acrilstandards/framework
 * Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes* (M. Cole, V. John-Steiner, S. Scribner, & E. Souberman, Eds.). Harvard University Press. https://doi.org/10.2307/ctviz
