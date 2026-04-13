@@ -24,7 +24,7 @@ After a brief back-and-forth, Claude produced a cloze (fill-in-the-blank) exerci
 
 The format of this activity is simple enough, but as any instructor knows, drafting good items and distractors is usually 80% of the battle. Even there, though, Claude greatly accelerated development; it not only programmed the interface, but also drafted all the sentences and content based on the 30 target words I had provided it. This could have taken multiple hours to do by hand, but Claude drafted a usable bank of materials in about one minute.
 
-Once the cloze exercize Artifact was built, I published it with a shareable link set to "Anyone in your organization," then posted that link on Canvas as an external resource. Students click through, log in with their Pitt credentials, and the activity opens in their browser. 
+Once the cloze exercize Artifact was built, I published it with a shareable link set to "Anyone in your organization," then posted that link on Canvas as an external resource. Students click through, log in with their Pitt credentials, and the activity opens in their browser. You can try it yourself here (log in with your Pitt email address): [https://claude.ai/artifacts/latest/e615d8a7-6537-4d6b-9a85-44aae595e1af](https://claude.ai/artifacts/latest/e615d8a7-6537-4d6b-9a85-44aae595e1af).
 
 The whole process, from my first exploratory prompt to Canvas link, took under an hour.
 
