@@ -18,13 +18,11 @@ I was recently preparing students in my Ling 0010 - ESL Reading and Vocabulary c
 
 I opened Claude, gave it the list of target words and some context about the course and assessment format, and asked for a list of possible interactive activity ideas. 
 
-After a brief back-and-forth, Claude produced a cloze (fill-in-the-blank) exercise activity. Each item presents a sentence with a gap and four multiple-choice options. Selecting the correct answer lights it up green and advances to the next item; selecting an incorrect answer marks it red and allows the student to keep trying. 
+After a brief back-and-forth, Claude produced a cloze (fill-in-the-blank) exercise activity. Each item presents a sentence with a gap and four multiple-choice options. Selecting the correct answer lights it up green and advances to the next item; selecting an incorrect answer marks it red and allows the student to keep trying. I requested a few tweaks and revisions, but I was soon happy with what I was seeing.
 
 ![Vocab activity artifact](vocab_1.png)
 
-The format of the activity was simple enough. But Claude not only handled programming the interface, but also drafting all the sentences and content, albeit based on the 30 target words I had provided it. This could have taken multiple hours to do by hand, but Claude drafted a workable version of an item bank within a minute.
-
-Claude made a few tweaks and refinements to the activity based on my feedback, and soon, I was happy with the result.
+The format of this activity is simple enough, but as any instructor knows, drafting good items and distractors is usually 80% of the battle. Even there, though, Claude greatly accelerated development; it not only programmed the interface, but also drafted all the sentences and content based on the 30 target words I had provided it. This could have taken multiple hours to do by hand, but Claude drafted a usable bank of materials in about one minute.
 
 Once the cloze exercize Artifact was built, I published it with a shareable link set to "Anyone in your organization," then posted that link on Canvas as an external resource. Students click through, log in with their Pitt credentials, and the activity opens in their browser. 
 
