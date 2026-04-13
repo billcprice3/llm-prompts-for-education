@@ -1,5 +1,8 @@
 # Rapid Interactive Materials Creation with Claude Artifacts
 
+Bill Price, 17 April 2026
+Presented as part of _Language Instruction and Generative AI at Pitt: a Working Group's Report_
+
 ## What Is Claude, and What Are Artifacts?
 
 Claude is an AI assistant developed by Anthropic, available to University of Pittsburgh faculty and students through Pitt's institutional subscription at [claude.ai](https://claude.ai/). Beyond generating text, Claude can produce self-contained, interactive web applications called "Artifacts" which are fully functional HTML/JavaScript tools that run directly in the browser, require no installation, and can be shared via link with anyone who has a Pitt account.
