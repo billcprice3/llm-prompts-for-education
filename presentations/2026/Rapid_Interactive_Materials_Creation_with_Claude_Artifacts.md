@@ -20,6 +20,8 @@ I opened Claude, gave it the list of target words and some context about the cou
 
 After a brief back-and-forth, Claude produced a cloze (fill-in-the-blank) exercise activity. Each item presents a sentence with a gap and four multiple-choice options. Selecting the correct answer lights it up green and advances to the next item; selecting an incorrect answer marks it red and allows the student to keep trying. 
 
+![Vocab activity artifact](vocab_1.png)
+
 The format of the activity was simple enough. But Claude not only handled programming the interface, but also drafting all the sentences and content, albeit based on the 30 target words I had provided it. This could have taken multiple hours to do by hand, but Claude drafted a workable version of an item bank within a minute.
 
 Claude made a few tweaks and refinements to the activity based on my feedback, and soon, I was happy with the result.
