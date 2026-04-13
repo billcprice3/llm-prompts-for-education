@@ -2,7 +2,7 @@
 
 Bill Price, 17 April 2026
 
-Presented as part of _Language Instruction and Generative AI at Pitt: a Working Group's Report_
+Presented as part of _[Language Instruction and Generative AI at Pitt: a Working Group's Report](https://www.polyglot.pitt.edu/events/language-instruction-and-generative-ai-pitt-working-groups-report)_
 
 ## What Is Claude, and What Are Artifacts?
 
