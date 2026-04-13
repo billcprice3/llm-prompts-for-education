@@ -75,6 +75,10 @@ I have had great success with these models on a 2023 model year MacBook Pro with
 
 # Presentations
 
+## 2026
+
+- 2026-04-13: [Rapid Interactive Materials Creation with Claude Artifacts](/presentations/2026/Rapid_Interactive_Materials_Creation_with_Claude_Artifacts.md)
+
 ## 2025
 
 - 2025-10-17: [Just a scaffold, not an architect - AI as a literature mapping tool for students](/presentations/2025/Just_a_scaffold,_not_an_architect_-_AI_as_a_literature_mapping_tool_for_students.md)
