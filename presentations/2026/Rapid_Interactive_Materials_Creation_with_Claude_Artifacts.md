@@ -62,11 +62,17 @@ Here is the exact message I sent:
 > 
 > Your task is to create a flashcard studying artifact. Color code the cards by masculine and feminine gender. Include some appropriate extra features like shuffle, mark as learned, etc.
 
+![Artifact version 1](artifact_1.png)
+
 **Step 2: Refine visually.**  
 The first version used white card text on pastel backgrounds, which I found hard to read. I simply told Claude: _"Please make the card text black instead of white."_ It updated the Artifact immediately.
 
+![Artifact version 2](artifact_2.png)
+
 **Step 3: Add functionality.**  
 I asked Claude to add keyboard shortcuts: _"Add keyboard shortcuts if possible. down arrow to flip; left and right for previous and next; up arrow for mark learned."_ Claude implemented all of these in one step.
+
+![Artifact version 3](artifact_3.png)
 
 **Step 4: Save and publish.**  
 I used the "Save as Artifact" button to name and preserve the tool, then published it with organization-wide link sharing. The finished activity is available here (log in with your Pitt email address):  
@@ -74,12 +80,14 @@ I used the "Save as Artifact" button to name and preserve the tool, then publish
 
 The key point: no HTML was written, no JavaScript was debugged. The conversation _was_ the development process.
 
+![Artifact as published in web browser](artifact_4.png)
+
 ***
 
 ## The Bigger Picture
 
-The cloze exercise and the flashcard tool are illustrations, not the point. The actual takeaway is that Claude Artifacts give instructors a fast path to **custom interactive materials** that fit their exact pedagogical context—whatever that context happens to be.
+The cloze exercise and the flashcard tool are just examples of a much broader point. The actual takeaway is that Claude Artifacts give instructors a fast path to custom interactive materials that fit their exact pedagogical context, whatever that context happens to be. Just describe what you want, refine through conversation, publish, and share with students.
 
-Matching exercises. Drag-and-drop activities. Pronunciation guides with audio. Annotated reading passages with comprehension check-ins. Grammar pattern drills. Any of these are plausible targets for the same workflow: describe what you want, refine through conversation, publish and share.
+The trade-off is transparency: instructors should verify content accuracy before deployment, and students should ideally understand they're using practice materials whose creation was accelerated with AI assistance. 
 
-The trade-off is transparency: students should understand they're using AI-generated practice materials, and instructors should verify content accuracy before deployment. But for low-stakes supplementary practice—filling in gaps, providing extra reps, making studying more engaging—this workflow is fast, flexible, and genuinely useful.
+But for low-stakes supplementary practice- filling in curricular gaps, providing extra ways to engage with materials, making studying more engaging- this workflow is fast, flexible, and genuinely useful.
