@@ -1,6 +1,7 @@
 # Rapid Interactive Materials Creation with Claude Artifacts
 
 Bill Price, 17 April 2026
+
 Presented as part of _Language Instruction and Generative AI at Pitt: a Working Group's Report_
 
 ## What Is Claude, and What Are Artifacts?
