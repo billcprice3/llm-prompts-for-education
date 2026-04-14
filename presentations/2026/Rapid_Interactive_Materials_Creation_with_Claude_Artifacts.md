@@ -14,7 +14,7 @@ For language instructors, this means that a vocabulary quiz, a flashcard deck, a
 
 ## A Real Example: Vocabulary Practice for Linguistics 0010
 
-I was recently preparing students in my Ling 0010 - ESL Reading and Vocabulary course for an upcoming assessment covering 30 target words. I needed something students could use to practice independently, but I wanted to avoid the "freemium" commercial tools like Quizlet. (I've learned the hard way to avoid lock-in on platforms that might unpredictably yank features or degrade the user experience.)
+I was recently preparing students in my Ling 0010 - ESL Reading and Vocabulary course for an upcoming assessment covering 30 target words. I needed something students could use to practice independently, but I wanted to avoid the "freemium" commercial tools like Quizlet. (I've learned the hard way to avoid lock-in on platforms that might unpredictably yank features or degrade the user experience; and at least with Claude, you can download the programmed activities you create and host them on your own web server if you ever need or prefer to do so. That portability matters to me.)
 
 I opened Claude, gave it the list of target words and some context about the course and assessment format, and asked for a list of possible interactive activity ideas. 
 
