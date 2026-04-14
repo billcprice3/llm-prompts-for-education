@@ -70,15 +70,21 @@ Here is the exact message I sent:
 > 
 > Your task is to create a flashcard studying artifact. Color code the cards by masculine and feminine gender. Include some appropriate extra features like shuffle, mark as learned, etc.
 
+This is the first version Claude created:
+
 ![Artifact version 1](artifact_1.png)
 
 **Step 2: Refine visually.**  
 The first version used white card text on pastel backgrounds, which I found hard to read. I simply told Claude: _"Please make the card text black instead of white."_ It updated the Artifact immediately.
 
+This is the second version Claude created:
+
 ![Artifact version 2](artifact_2.png)
 
 **Step 3: Add functionality.**  
 I asked Claude to add keyboard shortcuts: _"Add keyboard shortcuts if possible. down arrow to flip; left and right for previous and next; up arrow for mark learned."_ Claude implemented all of these in one step.
+
+This is the third version Claude created:
 
 ![Artifact version 3](artifact_3.png)
 
