@@ -24,9 +24,13 @@ After a brief back-and-forth, Claude produced a cloze (fill-in-the-blank) exerci
 
 The format of this activity is simple enough, but as any instructor knows, drafting good items and distractors is usually 80% of the battle. Even there, though, Claude greatly accelerated development; it not only programmed the interface, but also drafted all the sentences and content based on the 30 target words I had provided it. This could have taken multiple hours to do by hand, but Claude drafted a usable bank of materials in about one minute.
 
-Once the cloze exercize Artifact was built, I published it with a shareable link set to "Anyone in your organization," then posted that link on Canvas as an external resource. Students click through, log in with their Pitt credentials, and the activity opens in their browser. You can try it yourself here (log in with your Pitt email address): [https://claude.ai/artifacts/latest/e615d8a7-6537-4d6b-9a85-44aae595e1af](https://claude.ai/artifacts/latest/e615d8a7-6537-4d6b-9a85-44aae595e1af).
+Once the cloze exercize Artifact was built, I published it with a shareable link set to "Anyone in your organization," then posted that link on Canvas as an external resource. 
 
-The whole process, from my first exploratory prompt to Canvas link, took under an hour.
+In class, I explained that the resource was a study activity for next class’s vocabulary quiz, and that I had created it through Claude using our vocabulary list. Students clicked through, log in with their Pitt credentials (a bit clunky: the login workflow takes them from Claude to Microsoft to Pitt and then back to Claude), and the activity then opened in their browser. Since some students were using phones and others were using laptops, we were able to confirm naturally that the activity loaded correctly and operated correctly on both types of device.
+
+You can try the activity yourself here (log in with your Pitt email address): [https://claude.ai/artifacts/latest/e615d8a7-6537-4d6b-9a85-44aae595e1af](https://claude.ai/artifacts/latest/e615d8a7-6537-4d6b-9a85-44aae595e1af).
+
+The whole process, from my first exploratory brainstorming prompt to posting the working link on Canvas link, took under an hour.
 
 **Limitation worth keeping in mind:** Claude-hosted Artifacts don't report scores back to Canvas or any LMS. They're appropriate for low-stakes practice and self-study, not for graded assessments that require score recording or academic integrity controls. My only goal was to provide students with a studying tool, though, so that issue did not interfere with my purposes.
 
