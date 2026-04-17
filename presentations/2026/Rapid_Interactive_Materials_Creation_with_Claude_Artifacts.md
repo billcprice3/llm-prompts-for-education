@@ -8,7 +8,7 @@ Presented as part of _[Language Instruction and Generative AI at Pitt: a Working
 
 Claude is an AI assistant developed by Anthropic, available to University of Pittsburgh faculty and students through Pitt's institutional subscription at [claude.ai](https://claude.ai/). Beyond generating text, Claude can produce self-contained, interactive web applications called "Artifacts" which are fully functional HTML/JavaScript tools that run directly in the browser, require no installation, and can be shared via link with anyone who has a Pitt account.
 
-For language instructors, this means that a vocabulary quiz, a flashcard deck, a listening activity, or a reading exercise with interactive components can go from an idea to a published, shareable activity in a single conversation, without writing any code yourself.
+For language instructors, this means that a vocabulary practice quiz, a flashcard deck, a listening activity, or a reading exercise with interactive components can go from an idea to a published, shareable activity in a single conversation, without writing any code yourself.
 
 ***
 
