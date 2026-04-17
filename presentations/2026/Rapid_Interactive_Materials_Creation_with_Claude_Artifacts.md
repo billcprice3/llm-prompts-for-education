@@ -99,6 +99,10 @@ The key point: no HTML was written, no JavaScript was debugged. The conversation
 ***
 ## (Optional) Maintaining for the long term - HTML files
 
+Let’s be clear up front: **following the instructions as written above and letting Claude host your activity for you is the most user-friendly workflow.** It’s the easiest route, and it’s fine for most contexts.
+
+However, as an **advanced** but **more flexible** alternative, consider the following:
+
 Although Claude can host the activity artifacts directly on its own server, you may prefer to have more direct control of the activity.
 
 Thankfully, you can download a Claude artifact as a fully self-contained HTML file that contains all the programming logic necessary to render and run the activity in any standard web browser. Once you’ve downloaded the HTML file, you *fully* own and control the activity, just as if you’d programmed it yourself from scratch.
