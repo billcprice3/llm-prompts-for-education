@@ -20,7 +20,7 @@ I opened Claude, gave it the list of target words and some context about the cou
 
 After a brief back-and-forth, Claude produced a cloze (fill-in-the-blank) exercise activity. Each item presents a sentence with a gap and four multiple-choice options. Selecting the correct answer lights it up green and advances to the next item; selecting an incorrect answer marks it red and allows the student to keep trying. I requested a few tweaks and revisions, but I was soon happy with what I was seeing.
 
-![Vocab activity artifact](vocab_1.png)
+![Vocab activity artifact](1/vocab_1.png)
 
 The format of this activity is simple enough, but as any instructor knows, drafting good items and distractors is usually 80% of the battle. Even there, though, Claude greatly accelerated development; it not only programmed the interface, but also drafted all the sentences and content based on the 30 target words I had provided it. This could have taken multiple hours to do by hand, but Claude drafted a usable bank of materials in about one minute.
 
@@ -72,21 +72,21 @@ Here is the exact message I sent:
 
 This is the first version Claude created:
 
-![Artifact version 1](artifact_1.png)
+![Artifact version 1](1/artifact_1.png)
 
 **Step 2: Refine visually.**  
 The first version used white card text on pastel backgrounds, which I found hard to read. I simply told Claude: _"Please make the card text black instead of white."_ It updated the Artifact immediately.
 
 This is the second version Claude created:
 
-![Artifact version 2](artifact_2.png)
+![Artifact version 2](1/artifact_2.png)
 
 **Step 3: Add functionality.**  
 I asked Claude to add keyboard shortcuts: _"Add keyboard shortcuts if possible. down arrow to flip; left and right for previous and next; up arrow for mark learned."_ Claude implemented all of these in one step.
 
 This is the third version Claude created:
 
-![Artifact version 3](artifact_3.png)
+![Artifact version 3](1/artifact_3.png)
 
 **Step 4: Save and publish.**  
 I used the "Save as Artifact" button to name and preserve the tool, then published it with organization-wide link sharing. The finished activity is available here (log in with your Pitt email address):  
@@ -94,7 +94,25 @@ I used the "Save as Artifact" button to name and preserve the tool, then publish
 
 The key point: no HTML was written, no JavaScript was debugged. The conversation _was_ the development process.
 
-![Artifact as published in web browser](artifact_4.png)
+![Artifact as published in web browser](1/artifact_4.png)
+
+***
+## Maintaining for the long term
+Although Claude can host the activity artifacts directly on its own server, you may prefer to have more direct control.
+
+Thankfully, you can download an artifact as a fully self-contained HTML file that contains all the programming logic necessary to render and run the activity in any standard web browser.
+
+This unlocks many additional potential workflows, including:
+
+1. You can create a permanent archive of your Claude Artifact materials, saved as HTML files safely among your other curricular files.
+2. You can have Claude (or another tool) continue the development of your activity by sending it the HTML file and asking for a modification to the activity (see example below).
+
+![Modifying an existing artifact from its HTML file](1/artifact_5.png)
+
+3. You can host the HTML files on your own server if you prefer not to rely on Claude’s hosting.
+4. If you’re comfortable programming, you can take Claude’s “draft” and refine it on your own computer by editing the HTML file (see example below).
+
+![Raw, editable HTML of an artifact](1/artifact_6.png)
 
 ***
 
