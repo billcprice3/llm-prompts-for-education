@@ -90,7 +90,7 @@ This is the third version Claude created:
 
 **Step 4: Save and publish.**  
 I used the "Save as Artifact" button to name and preserve the tool, then published it with organization-wide link sharing. The finished activity is available here (log in with your Pitt email address):  
-[https://claude.ai/artifacts/latest/a0f8b6c4-ecc9-4988-b7df-f501ccfd6443](https://claude.ai/artifacts/latest/a0f8b6c4-ecc9-4988-b7df-f501ccfd6443)
+[https://claude.ai/artifacts/latest/a0f8b6c4-ecc9-4988-b7df-f501ccfd6443](https://claude.ai/artifacts/latest/a0f8b6c4-ecc9-4988-b7df-f501ccfd6443) (**Update:** the verison linked above now has wonderful text-to-speech and a slick “slide in, slide out” card animation too. It’s very hard to resist adding extra features and continuing the refinement!)
 
 The key point: no HTML was written, no JavaScript was debugged. The conversation _was_ the development process.
 
