@@ -98,18 +98,23 @@ The key point: no HTML was written, no JavaScript was debugged. The conversation
 
 ***
 ## (Optional) Maintaining for the long term - HTML files
-Although Claude can host the activity artifacts directly on its own server, you may prefer to have more direct control.
 
-Thankfully, you can download an artifact as a fully self-contained HTML file that contains all the programming logic necessary to render and run the activity in any standard web browser.
+Although Claude can host the activity artifacts directly on its own server, you may prefer to have more direct control of the activity.
+
+Thankfully, you can download a Claude artifact as a fully self-contained HTML file that contains all the programming logic necessary to render and run the activity in any standard web browser. Once you’ve downloaded the HTML file, you *fully* own and control the activity, just as if you’d programmed it yourself from scratch.
 
 This unlocks many additional potential workflows, including:
 
 1. You can create a permanent archive of your Claude Artifact materials, saved as HTML files safely among your other curricular files.
+
+
 2. You can have Claude (or another tool) continue the development of your activity by sending it the HTML file and asking for a modification to the activity (see example below).
 
 ![Modifying an existing artifact from its HTML file](1/artifact_5.png)
 
 3. You can host the HTML files on your own server if you prefer not to rely on Claude’s hosting.
+
+
 4. If you’re comfortable programming, you can take Claude’s “draft” and refine it on your own computer by editing the HTML file (see example below).
 
 ![Raw, editable HTML of an artifact](1/artifact_6.png)
