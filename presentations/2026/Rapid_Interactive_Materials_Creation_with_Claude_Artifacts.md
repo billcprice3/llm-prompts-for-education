@@ -103,11 +103,11 @@ Let’s be clear up front: **following the instructions as written above and let
 
 However, as an **advanced** but **more flexible** alternative, consider the following:
 
-Although Claude can host the activity artifacts directly on its own server, you may prefer to have more direct control of the activity.
+After Claude has programmed an artifact, you can *download* that Claude artifact as a fully self-contained HTML file that contains all the programming logic necessary to render and run the activity in any standard web browser. 
 
-Thankfully, you can download a Claude artifact as a fully self-contained HTML file that contains all the programming logic necessary to render and run the activity in any standard web browser. Once you’ve downloaded the HTML file, you *fully* own and control the activity, just as if you’d programmed it yourself from scratch.
+To be clear, once you’ve downloaded the HTML file, you *fully* own and control the activity, just as if you’d programmed it yourself from scratch. Claude can never “take it back” from you at that point or paywall it or otherwise cause any problems. That HTML file is a full and pure “export.”
 
-This unlocks many additional potential workflows, including:
+Having access to that raw, editable HTML file unlocks many additional potential workflows, including:
 
 1. You can create a permanent archive of your Claude Artifact materials, saved as HTML files safely among your other curricular files.
 
@@ -116,10 +116,11 @@ This unlocks many additional potential workflows, including:
 
 ![Modifying an existing artifact from its HTML file](1/artifact_5.png)
 
-3. You can host the HTML files on your own server if you prefer not to rely on Claude’s hosting.
+3. You can host the HTML files on your own web server if you prefer not to rely on Claude’s hosting.
 
+4. Because the HTML file is just as portable as something like a Word document or a PowerPoint slide deck, you can email the HTML files to students as attachments, like little self-contained study programs; or put them into a OneDrive folder for students; or any other distribution method of the kind you’d use for any other type of file.
 
-4. If you’re comfortable programming, you can take Claude’s “draft” and refine it on your own computer by editing the HTML file (see example below).
+5. If you’re comfortable programming, you can take Claude’s “draft” and refine it on your own computer by editing the HTML file (see example below).
 
 ![Raw, editable HTML of an artifact](1/artifact_6.png)
 
