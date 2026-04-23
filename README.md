@@ -10,7 +10,8 @@ For student-facing prompts, students have used LLMs of their choice (such as Cha
 
 # General materials creation
 
-- [Generate Transcript or Subtitles from Video](prompts/Generate_Subtitles_From_Video.md) **- NEW**
+- [Generating interactive learning activities using local offline models](prompts/Generating_interactive_learning_activities_using_local_offline_models.md) **- NEW**
+- [Generate Transcript or Subtitles from Video](prompts/Generate_Subtitles_From_Video.md)
 - [Generate Textbook Unit](prompts/Generate_Textbook_Unit.md) - see also [Writing Textbook Project Synopsis](prompts/Writing_Textbook_Project_Synopsis.md)
 - [Generate Lesson From Text](prompts/Generate_Lesson_From_Text.md)
 - [Generate Vocabulary List](prompts/Generate_Vocabulary_List.md)
