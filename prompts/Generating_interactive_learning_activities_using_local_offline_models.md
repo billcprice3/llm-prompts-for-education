@@ -21,9 +21,9 @@ I tested whether a local open-source coding model could generate a simple intera
 **Technical setup:**
 
 - **Hardware:** Framework 13 laptop (AMD Ryzen 7 7840U, 32GB RAM, running Nobara Linux)
-- **Model:** Gemma 4 E4B (Google DeepMind's "Effective 4 Billion" parameter model, released March 2026)
+- **Model:** Gemma 4 E4B (Google DeepMind's "Effective 4 Billion" parameter model, released 2 April 2026)
 - **Runtime:** Ollama (open-source local LLM server)
-- **Interface:** VSCodium IDE with Continue extension (open-source AI coding assistant)
+- **Code-viewing interface:** VSCodium IDE
 
 **Process:**
 
