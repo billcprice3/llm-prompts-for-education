@@ -4,9 +4,11 @@
 
 ## Why This Matters
 
-People creating Open Educational Resources (OER) often need simple interactive learning activities - flashcards, quizzes, practice exercises - to supplement their textbooks and course materials. Traditionally, this has meant either: learning to code from scratch (a significant barrier for most educators), using proprietary commercial platforms (Quizlet, H5P, etc.), or settling for static content without interactivity.
+People creating Open Educational Resources (OER) often need simple interactive learning activities, such as flashcards, formative quizzes, or practice exercises, to supplement their textbooks and course materials. Traditionally, this has meant either: learning to code from scratch (a significant barrier for most educators), using proprietary commercial platforms, or settling for static content without interactivity.
 
-Large language models can generate these interactive activities through conversation, but the most capable models (Claude, ChatGPT, Gemini) are cloud-based services that raise questions about data privacy, vendor lock-in, and ongoing costs. This experiment explores an alternative: **can open-source models running entirely on personal hardware produce usable interactive educational materials?**
+Large language models can generate these interactive activities through conversation, but the most capable models (Claude, ChatGPT, Gemini) are cloud-based services that raise questions about data privacy, vendor lock-in, and ongoing costs. This experiment explores an alternative question: 
+
+**Can open-source models running entirely on personal hardware produce usable interactive educational materials?**
 
 ## The Experiment: Multiplication Practice Tool
 
@@ -25,11 +27,23 @@ I tested whether a local open-source coding model could generate a simple intera
 
 **Process:**
 
-After loading the Gemma 4 E4B model via Ollama, I submitted the specification through the Continue extension. The model processed the request locally for approximately 5 minutes, then generated a complete HTML file containing the interactive activity.
+After loading the Gemma 4 E4B model via Ollama, I submitted the specification through my terminal. The model processed the request locally for approximately 5 minutes, eventually generating contents for an HTML file.
+
+![Gemma 4 E4B in Ollama in my terminal](images/20260422_1.png)
+
+I then copied and pasted the raw HTML/CSS/JavaScript output into a new HTML file in an open-source code editing program, VSCodium:
+
+![Generated activity pasted into an HTML file](images/20260422_2.png)
+
+After saving the file, I opened it in a web browser:
+
+![Activity opened in a web browser](images/20260422_3.png)
 
 **Result:**
 
-The activity rendered and functioned correctly on first try. Students can practice multiplication, randomize problems, submit answers, and receive immediate feedback - all in a self-contained HTML file that works in any modern browser without internet connection.
+I have uploaded the file here: [random-multiplication-test.html](random-multiplication-test.html)
+
+The activity rendered and functioned correctly on first try. A student could practice multiplication, randomize problems, submit answers, and receive immediate feedback, all in a self-contained HTML file that works in any modern browser without internet connection.
 
 **Minor quirk:** The number input boxes include increment/decrement arrows (HTML5 number input default behavior), which is unnecessary but harmless. This could be refined with a follow-up prompt or manual CSS edit.
 
