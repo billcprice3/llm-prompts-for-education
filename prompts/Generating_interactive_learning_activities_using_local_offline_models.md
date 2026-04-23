@@ -75,7 +75,7 @@ In my own testing, the activity rendered and functioned correctly on first try. 
 
 ## Looking Forward
 
-The landscape of local AI capabilities is evolving rapidly. Gemma 4 was released just weeks ago (April 2, 2026). Six months from now, more capable models will likely run on similar hardware, generation times will decrease, and output quality will improve.
+The landscape of local AI capabilities is evolving rapidly. Gemma 4 was released just weeks ago (2 April 2026). Six months from now, more capable models will likely run on similar hardware, generation times will decrease, and output quality will improve.
 
 For educators creating OER materials, the vision is clear: being able to say "I need a simple interactive activity to illustrate this concept" and generating it through conversation with a local tool, producing a self-contained HTML file you fully own and control, without depending on cloud services or commercial platforms.
 
