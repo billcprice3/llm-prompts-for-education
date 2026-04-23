@@ -29,15 +29,15 @@ I tested whether a local open-source coding model could generate a simple intera
 
 After loading the Gemma 4 E4B model via Ollama, I submitted the specification through my terminal. The model processed the request locally for approximately 5 minutes, eventually generating contents for an HTML file.
 
-![Gemma 4 E4B in Ollama in my terminal](/images/20260422_1.png)
+![Gemma 4 E4B in Ollama in my terminal](images/20260422_1.png)
 
 I then copied and pasted the raw HTML/CSS/JavaScript output into a new HTML file in an open-source code editing program, VSCodium:
 
-![Generated activity pasted into an HTML file](/images/20260422_2.png)
+![Generated activity pasted into an HTML file](images/20260422_2.png)
 
 After saving the file, I opened it in a web browser:
 
-![Activity opened in a web browser](/images/20260422_3.png)
+![Activity opened in a web browser](images/20260422_3.png)
 
 **Result:**
 
