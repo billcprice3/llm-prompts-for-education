@@ -41,7 +41,9 @@ After saving the file, I opened it in a web browser:
 
 **Result:**
 
-The activity rendered and functioned correctly on first try. Students can practice multiplication, randomize problems, submit answers, and receive immediate feedback - all in a self-contained HTML file that works in any modern browser without internet connection.
+I have uploaded the file here: [random-multiplication-test.html](random-multiplication-test.html)
+
+The activity rendered and functioned correctly on first try. A student could practice multiplication, randomize problems, submit answers, and receive immediate feedback, all in a self-contained HTML file that works in any modern browser without internet connection.
 
 **Minor quirk:** The number input boxes include increment/decrement arrows (HTML5 number input default behavior), which is unnecessary but harmless. This could be refined with a follow-up prompt or manual CSS edit.
 
