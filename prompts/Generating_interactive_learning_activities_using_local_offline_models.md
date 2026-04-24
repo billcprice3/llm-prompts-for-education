@@ -95,6 +95,23 @@ Can try this to pipe the output directly into an html file; avoids copy/paste re
 
 OK, the preceding *does not* provide the hoped for result; there seem to be additional garbage characters that break the file, like `[18D[K 10` and others; worth exploring variants, or seeing how other people usually pipe ollama output into files?
 
+### Example outputs
+
+Input: 
+
+```markdown
+Using HTML, CSS, and Javascript, generate an activity that will create a random 10-question multiplication test. All 10 questions will be presented at once, with 10 user-editable answer boxes. Each question will be in the form x * y, where x and y are both integers between 2 and 9. A "randomize" button at the bottom will re-shuffle all the problems. A "submit" button at the bottom will mark each line as correct or incorrect and show a final score out of 10.
+```
+Output: [random-multiplication-test.html](random-multiplication-test.html)
+
+Input:
+
+```markdown
+Using HTML, CSS, and Javascript, create a flashcard studying interface for the first 10 chemical elements. Side one has the atomic number and chemical symbol; side two has the name. The user needs to be able to advance forward and backward in the card deck and flip the currently active card. Structure your output so that all code can be pasted into one all-in-one HTML file.
+```
+
+Output:[chemical-element-flashcards.html](chemical-element-flashcards)
+
 ---
 
 *This experiment was conducted as part of ongoing exploration into AI-assisted materials creation for open educational resources. For related work on using cloud-based AI (Claude) for similar purposes, see my presentation "[Rapid Interactive Materials Creation with Claude Artifacts](https://github.com/billcprice3/llm-prompts-for-education/blob/main/presentations/2026/Rapid_Interactive_Materials_Creation_with_Claude_Artifacts.md)".*
