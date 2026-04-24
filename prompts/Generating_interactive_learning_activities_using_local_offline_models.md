@@ -110,7 +110,7 @@ Input:
 Using HTML, CSS, and Javascript, create a flashcard studying interface for the first 10 chemical elements. Side one has the atomic number and chemical symbol; side two has the name. The user needs to be able to advance forward and backward in the card deck and flip the currently active card. Structure your output so that all code can be pasted into one all-in-one HTML file.
 ```
 
-Output:[chemical-element-flashcards.html](chemical-element-flashcards)
+Output:[chemical-element-flashcards.html](chemical-element-flashcards.html)
 
 ---
 
