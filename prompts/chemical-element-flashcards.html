@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chemical Elements Flashcards</title>
+    <style>
+        /* GENERAL STYLING */
+        body {
+            font-family: 'Arial', sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #f4f7f9;
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        /* CARD CONTAINER */
+        .card-container {
+            width: 300px;
+            height: 200px;
+            perspective: 1000px; /* Used for 3D transformation */
+            margin-bottom: 30px;
+        }
+
+        /* THE FLIPPING CARD ELEMENT */
+        .flashcard {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            transition: transform 0.6s;
+            transform-style: preserve-3d; /* Crucial for 3D effect */
+        }
+
+        /* FLIP CLASS: When active, the entire card flips */
+        .flashcard.flipped {
+            transform: rotateY(180deg);
+        }
+
+        /* CARD FACES (Front and Back) */
+        .card-face {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden; /* Hides the back side when face-down */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+            box-sizing: border-box;
+            text-align: center;
+        }
+
+        /* FRONT FACE STYLING (Data: Number and Symbol) */
+        .card-front {
+            background-color: #ffffff;
+            transform: rotateY(0deg);
+        }
+        .atomic-number {
+            font-size: 3em;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        .symbol {
+            font-size: 4em;
+            font-weight: 900;
+            color: #3498db;
+            letter-spacing: 5px;
+        }
+
+        /* BACK FACE STYLING (Data: Name) */
+        .card-back {
+            background-color: #e8f6fa;
+            transform: rotateY(180deg);
+        }
+        .card-back h2 {
+            font-size: 2.5em;
+            color: #2980b9;
+            margin: 0;
+        }
+
+        /* NAVIGATION CONTROLS */
+        .controls {
+            display: flex;
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 1em;
+            cursor: pointer;
+            border: none;
+            border-radius: 8px;
+            background-color: #3498db;
+            color: white;
+            transition: background-color 0.3s, transform 0.1s;
+            box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        button:hover {
+            background-color: #2980b9;
+        }
+        button:active {
+            transform: translateY(1px);
+            box-shadow: none;
+        }
+        button:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+            box-shadow: none;
+        }
+
+        /* Status indicator */
+        #status {
+            margin-top: 10px;
+            font-size: 1.1em;
+            color: #555;
+        }
+
+    </style>
+</head>
+<body>
+
+    <h1>🧪 Chemical Element Flashcards (1-10)</h1>
+
+    <div class="card-container">
+        <div id="flashcard" class="flashcard">
+            <!-- Front Face (Default View) -->
+            <div class="card-face card-front">
+                <div id="atomic-number" class="atomic-number"></div>
+                <div id="symbol" class="symbol"></div>
+            </div>
+            <!-- Back Face (Flipped View) -->
+            <div class="card-face card-back">
+                <h2 id="element-name"></h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="controls">
+        <button id="prevBtn" onclick="prevCard()">&#9664; Previous</button>
+        <button id="flipBtn" onclick="flipCard()">Flip Card</button>
+        <button id="nextBtn" onclick="nextCard()">Next &#9654;</button>
+    </div>
+
+    <div id="status">Card 1 of 10</div>
+
+    <script>
+        // 1. DATA SETUP
+        const elements = [
+            { number: 1, symbol: 'H', name: 'Hydrogen' },
+            { number: 2, symbol: 'He', name: 'Helium' },
+            { number: 3, symbol: 'Li', name: 'Lithium' },
+            { number: 4, symbol: 'Be', name: 'Beryllium' },
+            { number: 5, symbol: 'B', name: 'Boron' },
+            { number: 6, symbol: 'C', name: 'Carbon' },
+            { number: 7, symbol: 'N', name: 'Nitrogen' },
+            { number: 8, symbol: 'O', name: 'Oxygen' },
+            { number: 9, symbol: 'F', name: 'Fluorine' },
+            { number: 10, symbol: 'Ne', name: 'Neon' }
+        ];
+
+        // 2. GLOBAL STATE
+        let currentIndex = 0;
+        const flashcardElement = document.getElementById('flashcard');
+        const numberDisplay = document.getElementById('atomic-number');
+        const symbolDisplay = document.getElementById('symbol');
+        const nameDisplay = document.getElementById('element-name');
+        const statusDisplay = document.getElementById('status');
+        const prevBtn = document.getElementById('prevBtn');
+        const nextBtn = document.getElementById('nextBtn');
+        const flipBtn = document.getElementById('flipBtn');
+
+        // 3. CORE FUNCTIONS
+
+        /**
+         * Loads the data for the current index onto the card.
+         * @param {boolean} resetFlip - Forces the card to the front face.
+         */
+        function loadCard(resetFlip = true) {
+            const element = elements[currentIndex];
+
+            // Update Front Face
+            numberDisplay.textContent = element.number;
+            symbolDisplay.textContent = element.symbol;
+            
+            // Update Back Face
+            nameDisplay.textContent = element.name;
+
+            // Update Status
+            statusDisplay.textContent = `Card ${currentIndex + 1} of ${elements.length}`;
+            
+            // Update Navigation Buttons
+            prevBtn.disabled = currentIndex === 0;
+            nextBtn.disabled = currentIndex === elements.length - 1;
+
+            // Reset flip state
+            if (resetFlip) {
+                flashcardElement.classList.remove('flipped');
+            }
+        }
+
+        /**
+         * Advances to the next card, handling wrapping and boundaries.
+         */
+        function nextCard() {
+            if (currentIndex < elements.length - 1) {
+                currentIndex++;
+                loadCard(true);
+            }
+        }
+
+        /**
+         * Goes back to the previous card, handling wrapping and boundaries.
+         */
+        function prevCard() {
+            if (currentIndex > 0) {
+                currentIndex--;
+                loadCard(true);
+            }
+        }
+
+        /**
+         * Toggles the 'flipped' class to show the answer.
+         */
+        function flipCard() {
+            flashcardElement.classList.toggle('flipped');
+        }
+
+        // 4. EVENT LISTENERS & INITIALIZATION
+
+        // Keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight') {
+                nextCard();
+            } else if (e.key === 'ArrowLeft') {
+                prevCard();
+            } else if (e.key === ' ' || e.key === 'Enter') {
+                flipCard();
+            }
+        });
+
+        // Initialize the card on page load
+        window.onload = () => {
+            loadCard(true);
+        };
+
+    </script>
+
+</body>
+</html>
