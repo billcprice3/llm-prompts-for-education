@@ -87,7 +87,11 @@ If you're interested in exploring this workflow, the software stack I used is fr
 - **VSCodium:** [vscodium.com](https://vscodium.com) (open-source VS Code build)
 - **Gemma 4:** Available via Ollama (`ollama pull gemma4:e4b`)
 
+### Additional note to self
 
+Can try this to pipe the output directly into an html file; avoids copy/paste requirement from terminal, but still needs to be cleaned up manually to clear any thinking or preable to the output:
+
+`ollama run gemma4:e4b "PROMPT" > OUTPUT.html`
 
 ---
 
