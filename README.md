@@ -7,6 +7,11 @@ Some prompts are instructor-facing, as for assistance in drafting materials.
 For student-facing prompts, students have used LLMs of their choice (such as ChatGPT, Gemini, Copilot, etc.) to run these prompts.
 
 ---
+# New project announcement: “Authorship and AI” OER
+
+In May 2026, I was fortunate to be selected as a winner of the [Nancy Tannery Grant for Open Educational Resources](https://www.provost.pitt.edu/initiatives/open-educational-resources/nancy-tannery-grant-open-educational-resources). I am building my OER, *Authorship and AI*, in public at [https://billcprice3.github.io/authorship-and-ai/](https://billcprice3.github.io/authorship-and-ai/). It is licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) Creative Commons license.
+ 
+---
 
 # General materials creation
 
