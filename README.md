@@ -1,82 +1,14 @@
 # llm-prompts-for-education
 
-I am an educator. This is a repository of LLM prompts (and similar materials) I have developed for use in curricula I have taught.
+I am Bill Price, an applied linguist and educational technologist at the University of Pittsburgh. This is a space for me to "work in public" on topics related to Generative AI.
 
-Some prompts are instructor-facing, as for assistance in drafting materials.
-
-For student-facing prompts, students have used LLMs of their choice (such as ChatGPT, Gemini, Copilot, etc.) to run these prompts.
+This site began as a repository of LLM prompts and similar materials I have developed for use in curricula I have taught, but has expanded somewhat to include presentations and other projects.
 
 ---
 # New project announcement: “Authorship and AI” OER
 
 In May 2026, I was fortunate to be selected as a winner of the [Nancy Tannery Grant for Open Educational Resources](https://www.provost.pitt.edu/initiatives/open-educational-resources/nancy-tannery-grant-open-educational-resources). I am building my OER, *Authorship and AI*, in public at [https://billcprice3.github.io/authorship-and-ai/](https://billcprice3.github.io/authorship-and-ai/). It is licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) Creative Commons license.
  
----
-
-# General materials creation
-
-- [Generating interactive learning activities using local offline models](prompts/Generating_interactive_learning_activities_using_local_offline_models.md) **- NEW**
-- [Generate Transcript or Subtitles from Video](prompts/Generate_Subtitles_From_Video.md)
-- [Generate Textbook Unit](prompts/Generate_Textbook_Unit.md) - see also [Writing Textbook Project Synopsis](prompts/Writing_Textbook_Project_Synopsis.md)
-- [Generate Lesson From Text](prompts/Generate_Lesson_From_Text.md)
-- [Generate Vocabulary List](prompts/Generate_Vocabulary_List.md)
-- [Generate Vocabulary Images](prompts/Generate_Vocabulary_Images.md)
-- [Generate Vocabulary Texts/Sentences](prompts/Generate_Vocabulary_Sentences.md)
-- [Generate Vocabulary Dictation](prompts/Generate_Vocabulary_Dictation.md)
-  - [Example output](prompts/Generate_Vocabulary_Dictation_Example.md)
-- [Summarize Scientific Journal Article](prompts/NotebookLM_Summarize_Article.md)
-- [Generate Song Lyrics](prompts/Generate_Song_Lyrics.md)
-- [Trying Claude 3.5 Sonnet's "Artifact" view for creating an OER](prompts/Claude_3.5_Sonnet_Draft_OER_Using_Artifact.md)
-
----
-
-# Citing and licensing AI-assisted work
-
-- [AI Attribution Scenarios](prompts/AI_Attribution_Scenarios.md)
-
----
-
-# Securely assessing student work offline
-- [Assessing real student reflections on a lecture](prompts/Assess_Real_Student_Reflections_On_A_Lecture.md)
-- [Assessing real student argumentative essays](prompts/Assess_Real_Student_Argumentative_Essays.md)
-
----
-
-# Prompts designed for specific curricula
-
-## LING 7 - ESL Writing Intermediate
-- [Literature Mapping](/prompts/LING_7_Literature_Mapping.md) **- NEW**
-## Technical Communication for Information Science
-
-[Index Page for INFSCI 2205](prompts/INFSCI_2205_Index.md)
-
-- [Literature Mapping for Research Topic](prompts/INFSCI_2205_Literature_Mapping_for_Research_Topic.md) **- NEW**
-- [Writing coach](prompts/INFSCI_2205_Writing_Coach.md)
-- [Library catalog search query suggestions](prompts/INFSCI_2205_Search_Query_Suggestions.md)
-- [Introduction Hook Suggestions](prompts/INFSCI_2205_Introduction_Hook_Suggestions.md)
-- [Make flashcards from an article](prompts/INFSCI_2205_Make_Flashcards_From_Article.md)
-- [Paraphrase Assistant](prompts/INFSCI_2205_Paraphrase_Assistant.md)
-- [Argumentative Essay Outline Feedback](prompts/INFSCI_2205_Argumentative_Essay_Outline_Feedback.md)
-- [Argumentative Essay Draft Feedback](prompts/INFSCI_2205_Argumentative_Essay_Feedback.md)
-
-## Writing 5
-
-- [Essay Feedback Questions](<prompts/Writing_5_Essay_Feedback_Questions.md>)
-
----
-
-# Recommended offline LLMs
-
-I have had great success with these models on a 2023 model year MacBook Pro with the M2 Pro chipset, presented here from most recent to oldest model:
-
-### Recent
-- March 2025: [Gemma 3 12b](https://huggingface.co/lmstudio-community/gemma-3-12b-it-GGUF) run via LM Studio
-
-### Older
-- Circa June 2024: [Qwen2-7B-Instruct-GGUF](https://huggingface.co/MaziyarPanahi/Qwen2-7B-Instruct-GGUF) run via LM Studio
-- Circa May 2024: [Meta-Llama-3-8B-Instruct-GGUF](https://huggingface.co/lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF) run via LM Studio
-- Circa March 2024: [Nous-Hermes-2-Mistral-7B-DPO](https://huggingface.co/NousResearch/Nous-Hermes-2-Mistral-7B-DPO) run via GPT4All
-
 ---
 
 # Presentations
@@ -93,44 +25,86 @@ I have had great success with these models on a 2023 model year MacBook Pro with
 
 - 2024-04-12: [Three Concepts for Generative AI in Language Education](presentations/2024/Three_Concepts_for_Generative_AI_in_Language_Education.md). Panel presentation, Technology in Language Teaching Forum.
 
-- 2024-03-28: [Let's Demystify AI and Take Initiative](presentations/2024/Let’s_Demystify_AI_and_Take_Initiative.md). Workshop, English Language Institute Curriculum Meeting.
+- 2024-03-28: [Let's Demystify AI and Take Initiative](presentations/2024/Let’s_Demystify_AI_and_Take_Initiative.md). Workshop, English Language Institute Curriculum Meeting. *This one is admittedly a bit of a gimmick: in the early days of public access to GenAI tools, I used the latest LLMs, diffusion models, and speech synthesis tools to make a "synthetic presentation" as the centerpiece of this workshop. That gimmick served a purpose in early 2024, but I wouldn't repeat it now!*
 
 ---
 
-# Additional Resources
+# LLM Prompts and Similar Materials
 
-## Prompt engineering and repositories
+## General materials creation
 
-- [How to Write Better ChatGPT Prompts](https://www.xelplus.com/chatgpt-prompts-for-best-results/): Article and video by Leila Gharani with specific tips and examples for writing more effective prompts
+- [Generating interactive learning activities using local offline models](prompts/Generating_interactive_learning_activities_using_local_offline_models.md) **- NEW**
+- [Generate Transcript or Subtitles from Video](prompts/Generate_Subtitles_From_Video.md)
+- [Generate Textbook Unit](prompts/Generate_Textbook_Unit.md) - see also [Writing Textbook Project Synopsis](prompts/Writing_Textbook_Project_Synopsis.md)
+- [Generate Lesson From Text](prompts/Generate_Lesson_From_Text.md)
+- [Generate Vocabulary List](prompts/Generate_Vocabulary_List.md)
+- [Generate Vocabulary Images](prompts/Generate_Vocabulary_Images.md)
+- [Generate Vocabulary Texts/Sentences](prompts/Generate_Vocabulary_Sentences.md)
+- [Generate Vocabulary Dictation](prompts/Generate_Vocabulary_Dictation.md)
+  - [Example output](prompts/Generate_Vocabulary_Dictation_Example.md)
+- [Summarize Scientific Journal Article](prompts/NotebookLM_Summarize_Article.md)
+- [Generate Song Lyrics](prompts/Generate_Song_Lyrics.md)
+- [Trying Claude 3.5 Sonnet's "Artifact" view for creating an OER](prompts/Claude_3.5_Sonnet_Draft_OER_Using_Artifact.md)
 
-- [LLM Prompts for Education](README.md): Bill Price's repository of prompts.
+---
 
-- [Fabric](https://github.com/danielmiessler/fabric/tree/main/patterns): A repository of prompts by Daniel Miessler. They are not specific to education, but provide excellent examples of what an engineered prompt can look like. See some of Miessler's examples below:
+## Citing and licensing AI-assisted work
 
-    - [Create Keynote](https://github.com/danielmiessler/fabric/blob/main/patterns/create_keynote/system.md) prompt that instructs the AI to create a slide-by-slide plan for a presentation
+- [AI Attribution Scenarios](prompts/AI_Attribution_Scenarios.md)
 
-    - [Extract Wisdom](https://github.com/danielmiessler/fabric/blob/main/patterns/extract_wisdom/system.md) prompt that instructs the AI to "extract surprising, insightful, and interesting information from text content"
+---
 
-## Chat-Based Generative AI Tools (as of March 2024)
+## Securely assessing student work offline
 
-### Commercial (online)
+- [Assessing real student reflections on a lecture](prompts/Assess_Real_Student_Reflections_On_A_Lecture.md)
+- [Assessing real student argumentative essays](prompts/Assess_Real_Student_Argumentative_Essays.md)
 
-- [ChatGPT](https://chat.openai.com/): A conversational AI developed by OpenAI, capable of generating human-like text responses. It's known for its wide range of applications, from answering questions to writing creative content.
+---
 
-- [Google Gemini](https://gemini.google.com): A conversational AI developed by Google, designed to provide information and perform tasks through natural language understanding.
+## Prompts designed for specific curricula
 
-- [Microsoft Copilot](https://copilot.microsoft.com/): Microsoft's conversational AI assistant that integrates with various Microsoft products to enhance productivity by automating tasks, generating content, and providing insights based on natural language prompts.
+### LING 7 - ESL Writing Intermediate
 
-### Open-Source (offline)
+- [Literature Mapping](/prompts/LING_7_Literature_Mapping.md) **- NEW**
+  
+### Technical Communication for Information Science
 
-- [GPT4All](https://gpt4all.io/): A free program for downloading and running open-source conversational AIs locally on your own computer. As of March 2024, I recommend using the model called Nous Hermes 2 Mistral DPO.
+[Index Page for INFSCI 2205](prompts/INFSCI_2205_Index.md)
 
-- [LM Studio](https://lmstudio.ai/): Similar to GPT4All, but considered to be less user-friendly and more advanced.
+- [Literature Mapping for Research Topic](prompts/INFSCI_2205_Literature_Mapping_for_Research_Topic.md) **- NEW**
+- [Writing coach](prompts/INFSCI_2205_Writing_Coach.md)
+- [Library catalog search query suggestions](prompts/INFSCI_2205_Search_Query_Suggestions.md)
+- [Introduction Hook Suggestions](prompts/INFSCI_2205_Introduction_Hook_Suggestions.md)
+- [Make flashcards from an article](prompts/INFSCI_2205_Make_Flashcards_From_Article.md)
+- [Paraphrase Assistant](prompts/INFSCI_2205_Paraphrase_Assistant.md)
+- [Argumentative Essay Outline Feedback](prompts/INFSCI_2205_Argumentative_Essay_Outline_Feedback.md)
+- [Argumentative Essay Draft Feedback](prompts/INFSCI_2205_Argumentative_Essay_Feedback.md)
 
-## Image-Based Generative AI Tools
+### Writing 5
 
-- [DALL·E 3](https://openai.com/dall-e-3/): Powers the image creation of ChatGPT and Microsoft Copilot.
+- [Essay Feedback Questions](<prompts/Writing_5_Essay_Feedback_Questions.md>)
 
-- [Midjourney](https://www.midjourney.com/)
+---
 
-- [Stable Diffusion](https://stability.ai/stable-image)
+# Recommended local LLMs for offline, private use 
+
+## Desktop/laptop
+
+I have had great success with these models on a 2023 model year MacBook Pro with the M2 Pro chipset, presented here from most recent to oldest model:
+
+### Recent
+
+- May 2025: [Gemma 4 E4B](https://huggingface.co/google/gemma-4-E4B-it) run via ollama or LM Studio
+
+### Older
+
+- March 2025: [Gemma 3 12b](https://huggingface.co/lmstudio-community/gemma-3-12b-it-GGUF) run via LM Studio
+- Circa June 2024: [Qwen2-7B-Instruct-GGUF](https://huggingface.co/MaziyarPanahi/Qwen2-7B-Instruct-GGUF) run via LM Studio
+- Circa May 2024: [Meta-Llama-3-8B-Instruct-GGUF](https://huggingface.co/lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF) run via LM Studio
+- Circa March 2024: [Nous-Hermes-2-Mistral-7B-DPO](https://huggingface.co/NousResearch/Nous-Hermes-2-Mistral-7B-DPO) run via GPT4All
+
+## Mobile
+
+### Recent
+
+- May 2025: [Gemma 4 E2B](https://huggingface.co/google/gemma-4-E2B-it) run via PocketPal AI on iOS or Android
