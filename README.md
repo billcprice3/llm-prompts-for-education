@@ -94,7 +94,7 @@ I have had great success with these models on a 2023 model year MacBook Pro with
 
 ### Recent
 
-- May 2025: [Gemma 4 E4B](https://huggingface.co/google/gemma-4-E4B-it) run via ollama or LM Studio
+- May 2026: [Gemma 4 E4B](https://huggingface.co/google/gemma-4-E4B-it) run via ollama or LM Studio
 
 ### Older
 
@@ -107,4 +107,4 @@ I have had great success with these models on a 2023 model year MacBook Pro with
 
 ### Recent
 
-- May 2025: [Gemma 4 E2B](https://huggingface.co/google/gemma-4-E2B-it) run via PocketPal AI on iOS or Android
+- May 2026: [Gemma 4 E2B](https://huggingface.co/google/gemma-4-E2B-it) run via PocketPal AI on iOS or Android
