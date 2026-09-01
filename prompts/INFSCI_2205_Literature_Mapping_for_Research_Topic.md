@@ -10,15 +10,15 @@ Pick one possible research topic you’re thinking about using in this course.
 
 Use this prompt in a generative AI tool (such as Gemini or Copilot; see *Generative AI Setup Guide*):
 
-> I want to research TOPIC (example: the impact of AI on employment). You will help me map the literature for this topic. Please give me a list of different academic disciplines and subfields that might have something to say about this topic. For each field, provide a summary of their contributions to the topic or issue as well as a summary of their concerns about the issue. Finally, also include a list of suggested search queries I can use to find relevant scholarly sources in a university library catalog.
+> I want to research TOPIC (example: the impact of AI on employment). You will help me map the literature for this topic. Please give me a list of different academic disciplines and subfields that might have something to say about this topic. For each field, provide a summary of their contributions to the topic or issue as well as a summary of their concerns about the issue, including briefly highlighting any particularly influential or often-cited scholars. Finally, also include a list of suggested search queries I can use to find relevant scholarly sources in a university library catalog. Avoid formal search syntax or boolean operators; I prefer keyword and natural language searches.
 > 
 > Example output format for our literature map:
 > 
-> Field name
-> 
+> Field name  
 > - Relevant subfields:  
 > - Contributions:  
 > - Concerns:  
+> - Notable scholars: Name (note), Name (note),  
 > - List of suggested search queries:
 
 You can copy and paste that entire prompt, replacing the sample topic with your own.
@@ -47,10 +47,15 @@ Find **one** article or source that looks useful and download the PDF.
 
 #### **Step 4: Save the Source to Zotero**
 
-Save the source you found to your Zotero library (Remember: *Zotero Setup Guide*) so you can refer back to it later. There are two easy ways to do this:
+Save the source you found to your Zotero library (Remember: *Zotero Setup Guide*) so you can refer back to it later. There are three easy ways to do this:
 
--   **If you downloaded a PDF**: Drag and drop the PDF file for the article directly into Zotero.
--   **If you have the DOI**: Open Zotero, click the magic wand icon (🪄) to open the Add Item(s) by Identifier menu, and paste in the DOI to add the item automatically. (A DOI is a "Digital Object Identifier", basically like a special kind of URL for academic and professional resources.)
+-   **Choice A: If you installed the Zotero Connector browser extension (recommended):** Click on the Zotero Connector button in your web browser when you are viewing the article in your browser. (You also need to have the Zotero program open and running.) This should save both the source information and the PDF or snapshot of the source.  
+      
+    
+-   **Choice B: If you downloaded a PDF**: You can drag and drop the PDF file for the article directly into Zotero.  
+      
+    
+-   **Choice C: If you have the DOI**: You can open Zotero, click the magic wand icon (🪄) to open the Add Item(s) by Identifier menu, and paste in the DOI to add the item automatically. (A DOI is a "Digital Object Identifier", basically like a special kind of URL for academic and professional resources.)
 
 ***
 
