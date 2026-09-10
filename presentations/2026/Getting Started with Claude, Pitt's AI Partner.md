@@ -1,5 +1,7 @@
-# Getting Started with Claude, Pitt's AI Partner
-### TiLT Forum, September 11, 2026
+# Getting Started with Claude as a Pitt faculty member
+Bill Price, 11 September 2026
+
+Presented as part of *[Getting Started with Claude, Pitt's AI Partner](https://www.polyglot.pitt.edu/events/getting-started-claude-pitts-ai-partner)*
 
 ---
 
