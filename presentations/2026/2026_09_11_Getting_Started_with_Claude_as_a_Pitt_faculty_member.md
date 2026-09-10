@@ -48,8 +48,8 @@ This activity is designed to reinforce a few ideas:
 
 Follow along and try this with your own data.
 
-1. Open a new Claude chat.
-2. In another tab, open the Canvas page for a course you're teaching and go to the **People** tab.
+1. Open a [new Claude chat](https://claude.ai/new).
+2. In another tab, open the [Canvas page](https://canvas.pitt.edu) for a course you're teaching and go to the **People** tab.
 3. In the Claude chat, type:
 
    > Please turn this pasted information from Canvas into a spreadsheet file.
