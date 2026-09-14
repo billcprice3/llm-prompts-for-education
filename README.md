@@ -15,6 +15,7 @@ In May 2026, I was fortunate to be selected as a winner of the [Nancy Tannery Gr
 
 ## 2026
 
+- 2026-09-11: [Getting Started with Claude as a Pitt faculty member](/presentations/2026/2026_09_11_Getting_Started_with_Claude_as_a_Pitt_faculty_member.md)
 - 2026-04-13: [Rapid Interactive Materials Creation with Claude Artifacts](/presentations/2026/Rapid_Interactive_Materials_Creation_with_Claude_Artifacts.md)
 
 ## 2025
