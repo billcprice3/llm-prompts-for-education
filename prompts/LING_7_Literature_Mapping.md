@@ -10,44 +10,25 @@ We will use the same "literature mapping" technique we practiced earlier in the 
 
 ### **Part 1: The AI-Powered Brainstorming Prompt**
 
-You will use the following prompt in a generative AI tool (like Gemini, Copilot, or ChatGPT) to help you map out the different academic disciplines that might have something to say about your topic of interest.
+You will use the following prompt in a generative AI tool (like Claude or Gemini) to help you map out the different academic disciplines that might have something to say about your topic of interest.
 
 **The Prompt:**
 
 ```
-For an argumentative essay, I want to research **[YOUR TOPIC HERE]**.
-
-You will help me map the literature for this topic.
-
-Please give me a list of different academic disciplines and subfields that might have something to say about this topic.
-
-For each field, provide:
-
-1. A summary of their contributions to the topic or issue.
-
-2. A summary of their concerns about the issue.
-
-Finally, provide two separate lists of suggested search queries:
-
-- Scholarly Queries: A list of queries I can use to find relevant scholarly sources in a university library catalog (like PittCat).
-
-- Popular Press Queries: A list of queries I can use to find high-quality articles in the popular press (like news articles, magazines, or reputable websites) using a search engine like Google.
+For an argumentative essay, I want to research [YOUR TOPIC HERE]. You will help me map the literature for this topic. Please give me a list of different academic disciplines and subfields that might have something to say about this topic. For each field, provide a summary of their contributions to the topic or issue as well as a summary of their concerns about the issue, including briefly highlighting any particularly influential or often-cited scholars. Finally, also include both a list of suggested search queries I can use to find relevant scholarly sources in a university library catalog and a separate list of suggested search queries I can use to find relevant popular press, blog, or news sources using a general source engine. Avoid formal search syntax or boolean operators; I prefer keyword and natural language searches.
 
 Example output format for our literature map:
 
 Field name
 
-- Relevant subfields:
-
-- Contributions:
-
-- Concerns:
-
-- List of scholarly search queries:
-
-- List of popular press queries:
-
+-   Relevant subfields:
+-   Contributions:
+-   Concerns:
+-   Notable scholars: Name (note), Name (note),
+-   List of suggested academic library search queries:
+-   List of suggested regular search engine queries:
 ```
+(Be sure to change the first sentence to include your topic!)
 
 ***
 
