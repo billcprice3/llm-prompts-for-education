@@ -8,7 +8,7 @@ Pick one possible research topic you’re thinking about using in this course.
 
 #### **Step 2: Use the Prompt**
 
-Use this prompt in a generative AI tool (such as Gemini or Copilot; see *Generative AI Setup Guide*):
+Use this prompt in a generative AI tool (such as Claude or Gemini; see *Generative AI Setup Guide*):
 
 >I want to research TOPIC (example: the impact of AI on employment). You will help me map the literature for this topic. Please give me a list of different academic disciplines and subfields that might have something to say about this topic. For each field, provide a summary of their contributions to the topic or issue as well as a summary of their concerns about the issue, including briefly highlighting any particularly influential or often-cited scholars. Finally, also include a list of suggested search queries I can use to find relevant scholarly sources in a university library catalog. Avoid formal search syntax or boolean operators; I prefer keyword and natural language searches.
 
