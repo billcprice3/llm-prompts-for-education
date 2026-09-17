@@ -10,16 +10,18 @@ Pick one possible research topic you’re thinking about using in this course.
 
 Use this prompt in a generative AI tool (such as Gemini or Copilot; see *Generative AI Setup Guide*):
 
-> I want to research TOPIC (example: the impact of AI on employment). You will help me map the literature for this topic. Please give me a list of different academic disciplines and subfields that might have something to say about this topic. For each field, provide a summary of their contributions to the topic or issue as well as a summary of their concerns about the issue, including briefly highlighting any particularly influential or often-cited scholars. Finally, also include a list of suggested search queries I can use to find relevant scholarly sources in a university library catalog. Avoid formal search syntax or boolean operators; I prefer keyword and natural language searches.
-> 
-> Example output format for our literature map:
-> 
-> Field name  
-> - Relevant subfields:  
-> - Contributions:  
-> - Concerns:  
-> - Notable scholars: Name (note), Name (note),  
-> - List of suggested search queries:
+>I want to research TOPIC (example: the impact of AI on employment). You will help me map the literature for this topic. Please give me a list of different academic disciplines and subfields that might have something to say about this topic. For each field, provide a summary of their contributions to the topic or issue as well as a summary of their concerns about the issue, including briefly highlighting any particularly influential or often-cited scholars. Finally, also include a list of suggested search queries I can use to find relevant scholarly sources in a university library catalog. Avoid formal search syntax or boolean operators; I prefer keyword and natural language searches.
+
+>Example output format for our literature map:
+
+> Field name 1
+>- Relevant subfields:
+>- Contributions:
+>- Concerns:
+>- Notable scholars: Name (note), Name (note),
+>- List of suggested search queries:
+>  
+> Field name 2 (...)
 
 You can copy and paste that entire prompt, replacing the sample topic with your own.
 
