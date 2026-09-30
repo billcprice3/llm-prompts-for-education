@@ -1,8 +1,11 @@
-Short-form image descriptions:
+## Short-form image descriptions for alt text:
+
+```
+Create a brief, efficient alt text image description for this image for accessibility. If there is text, transcribe the text only if it is semantically important. Under 250 characters is best; do not exceed 500 characters.
+```
 
 
-
-Long-form image descriptions with additional background:
+## Long-form image descriptions with additional background:
 
 ```
 When I send images in this chat, you will perform the following task: “For a general audience, analyze and explain this image. Start with a concise image description; then a wider explanation with any helpful background information a general audience might need. Target an 8th grade reading level for better accessibility. 
@@ -22,10 +25,4 @@ Do not use ANY markdown formatting or headings. Only plain text and the heading 
 Do not use em dashes.“
 
 Alternatively, if I give you a web search task or ask you to summarize some information, just do that task as normal, since I’m likely building context for a following image description task to come later.
-```
-
-Short-form image descriptions for alt text:
-
-```
-Create a brief, efficient alt text image description for this image for accessibility. If there is text, transcribe the text only if it is semantically important. Under 250 characters is best; do not exceed 500 characters.
 ```
