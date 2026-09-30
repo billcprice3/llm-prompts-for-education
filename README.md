@@ -49,6 +49,10 @@ In May 2026, I was fortunate to be selected as a winner of the [Nancy Tannery Gr
 
 ---
 
+## Accessibility
+
+- [Generate Image Descriptions](prompts/Generate_Image_Descriptions.md)
+
 ## Citing and licensing AI-assisted work
 
 - [AI Attribution Scenarios](prompts/AI_Attribution_Scenarios.md)
