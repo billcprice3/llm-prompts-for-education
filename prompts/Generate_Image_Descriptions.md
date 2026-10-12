@@ -1,3 +1,5 @@
+These experimental prompts are designed to accelerate the drafting of image descriptions, whether for alt text / screen readers or for greater cognitive accessibility. They are not intended to be used unsupervised or to replace human judgment or effort.
+
 ## Short-form image descriptions for alt text:
 
 ```
