@@ -36,9 +36,9 @@ This workflow is a strong choice for educators who need to produce accurate capt
     
     -   Once the status reads `Completed`, double-click the task to open the transcript viewer.
         
-    -   Use the `Export` button to save the transcript. For video subtitles, the **`.srt`** format is standard.
+    -   Use the `Export` button to save the transcript. For video subtitles, the **`.srt`** format is standard in most contexts, although the **`.vtt`** format is used in some web-video contexts such as on Canvas. (The Canvas video uploader interface lets you upload an accompanying VTT file.)
   
-    -   If your video file is named `videofilename.mkv`, you should name your subtitle filename something like `videofilename.en.srt`, where the first part of the filename is **identical** to the video filename; then a dot; then a [2- or 3-character ISO language code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) such as `en` for English or `fr` for French, etc.; then `.srt`.
+    -   For **`.srt`** files: If your video file is named `videofilename.mkv`, you should name your subtitle filename something like `videofilename.en.srt`, where the first part of the filename is **identical** to the video filename; then a dot; then a [2- or 3-character ISO language code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) such as `en` for English or `fr` for French, etc.; then `.srt`.
   
 5.  **Playing your Video with Captions**
 
