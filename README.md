@@ -15,6 +15,7 @@ In May 2026, I was fortunate to be selected as a winner of the [Nancy Tannery Gr
 
 ## 2026
 
+- 2026-10-23: [Rehearsing a public professional self: Evidence-based video presentations for widening circles of audience](/presentations/2026/2026_10_23_Rehearsing_a_public_professional_self_Evidence-based_video_presentations_for_widening_circles_of_audience.md)
 - 2026-09-11: [Getting Started with Claude as a Pitt faculty member](/presentations/2026/2026_09_11_Getting_Started_with_Claude_as_a_Pitt_faculty_member.md)
 - 2026-04-13: [Rapid Interactive Materials Creation with Claude Artifacts](/presentations/2026/Rapid_Interactive_Materials_Creation_with_Claude_Artifacts.md)
 
