@@ -2,7 +2,7 @@
 
 ## Resources
 
-* See the full poster on D-Scholarship @ Pitt. (NOTE: FORTHCOMING)
+* See the [full poster](https://d-scholarship.pitt.edu/concern/generic_works/f6a4c158-549b-4c63-905a-730d1d2b33d8?locale=en) on D-Scholarship @ Pitt.
 * See the full activity here on GitHub. (NOTE: FORTHCOMING)
 
 # Transcript of Poster Text
