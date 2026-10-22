@@ -10,7 +10,9 @@
 ## Rehearsing a public professional self: Evidence-based video presentations for widening circles of audience
 
 **Bill Price**
+
 Department of Linguistics
+
 University of Pittsburgh
 
 ---
@@ -31,7 +33,7 @@ University of Pittsburgh
 
 ---
 
-### Research Question
+### Motivating Question
 
 > Can graduate students achieve **legitimate peripheral participation** and try on **provisional professional selves** through public-facing video presentations?
 
@@ -46,7 +48,6 @@ University of Pittsburgh
 **Canvas digital colloquium**
 *Lave & Wenger, 1991; Vygotsky, 1978*
 
-| | |
 |---|---|
 | **Audience** | Classmates and instructor |
 | **Students** | Post the video, comment on two peers, respond to feedback |
@@ -63,7 +64,6 @@ University of Pittsburgh
 **D-Scholarship@Pitt**
 *Carter, 2021; Ibarra, 1999*
 
-| | |
 |---|---|
 | **Audience** | *Either* Pitt community or everyone worldwide |
 | **Students** | Write title and abstract, add keywords, set access and license |
@@ -84,7 +84,6 @@ University of Pittsburgh
 **e.g. LinkedIn, YouTube, TikTok**
 *Anos, 2025; Rajkumar et al., 2022; Wang & Li, 2024*
 
-| | |
 |---|---|
 | **Audience** | The field, potential employers, weak-tie network |
 | **Students** | Share the video or repository link, or choose not to |
