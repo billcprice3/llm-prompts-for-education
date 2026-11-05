@@ -69,6 +69,10 @@ In May 2026, I was fortunate to be selected as a winner of the [Nancy Tannery Gr
 
 ## Prompts designed for specific curricula
 
+### ENGCMP 0299 - Seminar in Composition: Authorship and AI
+
+- [Annotated Bibliography](/prompts/ENGCMP_0299_Annotated_Bibliography.md) **- NEW**
+
 ### LING 7 - ESL Writing Intermediate
 
 - [Literature Mapping](/prompts/LING_7_Literature_Mapping.md) **- NEW**
