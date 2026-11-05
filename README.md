@@ -1,13 +1,13 @@
 # llm-prompts-for-education
 
-I am Bill Price, an applied linguist and educational technologist at the University of Pittsburgh. This is a space for me to "work in public" on topics related to Generative AI.
+I am Bill Price, an applied linguist and educational technologist at the University of Pittsburgh. This is a space for me to "work in public" on topics related to Generative AI, Computer Assisted Language Learning, composition studies, and education and pedagogy in general.
 
-This site began as a repository of LLM prompts and similar materials I have developed for use in curricula I have taught, but has expanded somewhat to include presentations and other projects.
+This site began as a repository of LLM prompts and similar materials I have developed for use in curricula I have taught, but has expanded to include presentations, materials, and other projects.
 
 ---
 # New project announcement: “Authorship and AI” OER
 
-In May 2026, I was fortunate to be selected as a winner of the [Nancy Tannery Grant for Open Educational Resources](https://www.provost.pitt.edu/initiatives/open-educational-resources/nancy-tannery-grant-open-educational-resources). I am building my OER, *Authorship and AI*, in public at [https://billcprice3.github.io/authorship-and-ai/](https://billcprice3.github.io/authorship-and-ai/). It is licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) Creative Commons license.
+In May 2026, I was fortunate to be selected as a winner of the [Nancy Tannery Grant for Open Educational Resources](https://www.provost.pitt.edu/initiatives/open-educational-resources/nancy-tannery-grant-open-educational-resources). I am first building out materials for immediate use in a curriculum, but circa December 2026, I will begin consolidating my OER, *Authorship and AI*, in public at [https://billcprice3.github.io/authorship-and-ai/](https://billcprice3.github.io/authorship-and-ai/). It is licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) Creative Commons license.
  
 ---
 
